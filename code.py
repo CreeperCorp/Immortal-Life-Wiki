@@ -2,7 +2,7 @@ print('Only Season 9 is included right now')
 ifLore = input('Do you want to see Season 9 lore?(yes/no): ')
 
 if (ifLore = 'yes'):
-  print("On day 1, CreepYT got banned after joke betraying, and ECRACreepSplotion got the dragon egg. CreepYT got banned again on day 3. Creep made the Resin Mound, Ancient Debri Pond, and Temperature Graph Spawn. CreepYT actually left BloodShots and is going rogue. CreepYT created an Orbital Strike Cannon.")
+  print("On day 1, CreepYT got banned after joke betraying, and ECRACreepSplotion got the dragon egg. CreepYT got banned again on day 3. Creep made the Resin Mound, Ancient Debri Pond, and Temperature Graph Spawn. CreepYT actually left BloodShots and is going rogue. CreepYT created an Orbital Strike Cannon. Division and Ennard are actively looking for the Orbital built by CreepYT.")
   
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
@@ -25,6 +25,8 @@ if (ifVideos = 'yes'):
   print('CreepYT: The First Fire')
   print('Division: CHOAS')
   print('Ennard: Peace?')
+  print('CreepSplotion: Betrayal')
+  print('Giggles: The First Week')
 
 ifLive = input('Do you want to see Season 9 live streams in chronological order?(yes/no): ')
 
@@ -39,3 +41,7 @@ if (ifLive = 'yes'):
   print('CreepYT: No | 3 hours')
   print('CreepYT: Building & Destruction | 19 hours')
   print("CreepYT: They're On | 3 hours")
+  print("CreepYT: Fun Fun Fun | 10/14/25 | 6 hours")
+  print("Ennard: Finding The Orbital #1 | 10/14/25 | 9 hours")
+  print("Division: Finding The Orbital #1 | 10/14/25 | 13 hours")
+  print("Giggles: Building A Base | 10/14/25 | 4 hours")
