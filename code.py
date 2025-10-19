@@ -2,7 +2,7 @@ print('Only Season 9 is included right now')
 ifLore = input('Do you want to see Season 9 lore?(yes/no): ')
 
 if (ifLore == 'yes'):
-  print("On day 1, CreepYT got banned after joke betraying, and ECRACreepSplotion got the dragon egg. CreepYT got banned again on day 3. Creep made the Resin Mound, Ancient Debri Pond, and Temperature Graph Spawn. CreepYT actually left BloodShots and is going rogue. CreepYT created an Orbital Strike Cannon. Division and Ennard are actively looking for the Orbital built by CreepYT.")
+  print("On day 1, CreepYT got banned after joke betraying, and ECRACreepSplotion got the dragon egg. CreepYT got banned again on day 3. Creep made the Resin Mound, Ancient Debri Pond, and Temperature Graph Spawn. CreepYT actually left BloodShots and is going rogue. CreepYT created an Orbital Strike Cannon. Division and Ennard are actively looking for the Orbital built by CreepYT. Giggles found the Orbital.")
   
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
@@ -28,6 +28,8 @@ if (ifVideos == 'yes'):
   print('CreepSplotion: Betrayal')
   print('Giggles: The First Week')
   print('Giggles: The Trigger Is Mine')
+  print('CreepYT: An Orbital War')
+  print('ReapSplotion: The End Fight')
 
 ifLive = input('Do you want to see Season 9 live streams in chronological order?(yes/no): ')
 
@@ -56,3 +58,10 @@ if (ifLive == 'yes'):
   print("CreepYT: He Didn't Find It He's Just Hiding He Made His Own | 10/16/25 | 9 hours")
   print("CreepYT: He Was Lying... But He Actually Found It | 10/17/25 | 8 hours")
   print("CreepSplotion: Giggles Rlly Dumb For Naming His Stream What He Was Doing | 10/17/25 | 2 hours")
+  print("CreepSplotion: Nothing | 10/18/25 | 8 hours")
+  print("CreepYT: Another One | 10/18/25 | 7 hours")
+  print("ReapSplotion: Building A Base | 10/18/25 | 4 hours")
+  print("Ennard: Mystery | 10/18/25 | 8 hours")
+  print("Giggles: I Fired It On Accident | 10/18/25 | 9 hours")
+  print("CreepYT: Done | 10/19/25 | 14 hours")
+  print("CreepSplotion: What's Done | 10/19/25 | 3 hours")
