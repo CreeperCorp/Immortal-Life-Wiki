@@ -2,7 +2,7 @@ print('Only Season 9 is included right now')
 ifLore = input('Do you want to see Season 9 lore?(yes/no): ')
 
 if (ifLore == 'yes'):
-  print("On day 1, CreepYT got banned after joke betraying, and ECRACreepSplotion got the dragon egg. CreepYT got banned again on day 3. Creep made the Resin Mound, Ancient Debri Pond, and Temperature Graph Spawn. CreepYT actually left BloodShots and is going rogue. CreepYT created an Orbital Strike Cannon. Division and Ennard are actively looking for the Orbital built by CreepYT. Giggles found the Orbital. After StrengthSMP got added Dash was the first to get max strength (Even though he doesn't know how to use his ultimate)")
+  print("On day 1, CreepYT got banned after joke betraying, and ECRACreepSplotion got the dragon egg. CreepYT got banned again on day 3. Creep made the Resin Mound, Ancient Debri Pond, and Temperature Graph Spawn. CreepYT actually left BloodShots and is going rogue. CreepYT created an Orbital Strike Cannon. Division and Ennard are actively looking for the Orbital built by CreepYT. Giggles found the Orbital. After StrengthSMP got added Dash was the first to get max strength (Even though he doesn't know how to use his ultimate). Giggles uses the orbital to kill and reach max strength.")
   
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
@@ -31,6 +31,7 @@ if (ifVideos == 'yes'):
   print('CreepYT: An Orbital War')
   print('ReapSplotion: The End Fight')
   print('CreepYT: Strength')
+  print('Giggles: One Shot, 5 plops')
 
 ifLive = input('Do you want to see Season 9 live streams in chronological order?(yes/no): ')
 
@@ -67,3 +68,7 @@ if (ifLive == 'yes'):
   print("CreepYT: Done | 10/19/25 | 14 hours")
   print("CreepSplotion: What's Done | 10/19/25 | 3 hours")
   print("CreepYT: StrengthStealSMP | 10/19/25 | 5 hours")
+  print("CreepYT: Full Strength | 10/20/25 | 4 hours")
+  print("Ennard: Unlocking An Ult | 10/20/25 | 8 hours")
+  print("Giggles: The Easiest Way To Kill | 10/20/25 | 4 hours")
+  print("Division: It's Only A Matter Of Time | 10/20 | 7 hours")
