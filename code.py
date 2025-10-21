@@ -32,6 +32,8 @@ if (ifVideos == 'yes'):
   print('ReapSplotion: The End Fight')
   print('CreepYT: Strength')
   print('Giggles: One Shot, 5 plops')
+  print('Division: Five Shots, 5 missfires')
+  print('ReapSplotion: A Peaceful Spawn')
 
 ifLive = input('Do you want to see Season 9 live streams in chronological order?(yes/no): ')
 
@@ -71,4 +73,7 @@ if (ifLive == 'yes'):
   print("CreepYT: Full Strength | 10/20/25 | 4 hours")
   print("Ennard: Unlocking An Ult | 10/20/25 | 8 hours")
   print("Giggles: The Easiest Way To Kill | 10/20/25 | 4 hours")
-  print("Division: It's Only A Matter Of Time | 10/20 | 7 hours")
+  print("Division: It's Only A Matter Of Time | 10/20/25 | 7 hours")
+  print("Division: I Wanna Shoot It Too! | 10/21/25 | 12 hours")
+  print("CreepYT: The Bad Guy | 10/21/25 | 6 hours")
+  print("Ennard: Triple Threat | 10/21/25 | 9 hours")
