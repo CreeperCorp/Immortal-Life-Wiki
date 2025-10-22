@@ -85,3 +85,31 @@ if (ifLive == 'yes'):
   print("Giggles: DCCE++ | 10/22/25 | 5 hours")
   print("Finxlly: Joining Immortal Lifes' Active Members List | 10/22/25 | 17 hours")
   print("PolyPeptide: Playing Immortal Life For The First Time | 10/22/25 | 8 hours")
+
+ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
+
+if (ifHeartCountS9 == 'yes':
+  print('CreepSplotion: 18 Hearts')
+  print('ReapSplotion: 12 Hearts')
+  print('Ennard: 20 Hearts')
+  print('Division: 14 Hearts')
+  print('Giggles: 20 Hearts')
+  print('CreepYT: 13 Hearts')
+  print('Dash: 8 Hearts')
+  print('XxFun: 10 Hearts')
+  print('Finxlly: 9 Hearts')
+  print('PolyPeptide: 11 Hearts')
+
+ifStrengthCountS9 = input("Do you want to see everyone's strength count in S9?(yes/no): ")
+
+if (ifStrengthCountS9 == 'yes':
+  print('CreepSplotion: 5 Strength')
+  print('ReapSplotion: 3 Strength')
+  print('Ennard: 4 Strength')
+  print('Division: 5 Strength')
+  print('Giggles: 5 Strength')
+  print('CreepYT: 5 Strength')
+  print('Dash: 5 Strength')
+  print('XxFun: 3 Strength')
+  print('Finxlly: 2 Strength')
+  print('PolyPeptide: 4 Strength')
