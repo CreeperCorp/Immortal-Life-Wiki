@@ -2,7 +2,7 @@ print('Only Season 9 is included right now')
 ifLore = input('Do you want to see Season 9 lore?(yes/no): ')
 
 if (ifLore == 'yes'):
-  print("On day 1, CreepYT got banned after joke betraying, and ECRACreepSplotion got the dragon egg. CreepYT got banned again on day 3. Division and Giggles made the Resin Mound, Ancient Debri Pond, and Temperature Graph Spawn. CreepYT actually left BloodShots and is going rogue. CreepYT created an Orbital Strike Cannon. Division and Ennard are actively looking for the Orbital built by CreepYT. Giggles found the Orbital. After StrengthSMP got added Dash was the first to get max strength (Even though he doesn't know how to use his ultimate). Giggles uses the orbital to kill and reach max strength.")
+  print("On day 1, CreepYT got banned after joke betraying, and ECRACreepSplotion got the dragon egg. CreepYT got banned again on day 3. Division and Giggles made the Resin Mound, Ancient Debri Pond, and Temperature Graph Spawn. CreepYT actually left BloodShots and is going rogue. CreepYT created an Orbital Strike Cannon. Division and Ennard are actively looking for the Orbital built by CreepYT. Giggles found the Orbital. After StrengthSMP got added Dash was the first to get max strength (Even though he doesn't know how to use his ultimate). Giggles uses the orbital to kill and reach max strength. PolyPeptide and Finxlly join the active members list.")
   
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
@@ -34,6 +34,7 @@ if (ifVideos == 'yes'):
   print('Giggles: One Shot, 5 plops')
   print('Division: Five Shots, 5 missfires')
   print('ReapSplotion: A Peaceful Spawn')
+  print('Finxlly: I Started 1 Month In')
 
 ifLive = input('Do you want to see Season 9 live streams in chronological order?(yes/no): ')
 
@@ -77,3 +78,8 @@ if (ifLive == 'yes'):
   print("Division: I Wanna Shoot It Too! | 10/21/25 | 12 hours")
   print("CreepYT: The Bad Guy | 10/21/25 | 6 hours")
   print("Ennard: Triple Threat | 10/21/25 | 9 hours")
+  print("CreepYT: I'll Show You | 10/22/25 | 6 hours")
+  print("Division: 5 | 10/22/25 | 8 hours")
+  print("Giggles: DCCE++ | 10/22/25 | 5 hours")
+  print("Finxlly: Joining Immortal Lifes' Active Members List | 10/22/25 | 17 hours")
+  print("PolyPeptide: Playing Immortal Life For The First Time | 10/22/25 | 8 hours")
