@@ -35,6 +35,8 @@ if (ifVideos == 'yes'):
   print('Division: Five Shots, 5 missfires')
   print('ReapSplotion: A Peaceful Spawn')
   print('Finxlly: I Started 1 Month In')
+  print('ReapSplotion: Out Of Orbit')
+  print('CreepSplotion: Getting Max Strength')
 
 ifLive = input('Do you want to see Season 9 live streams in chronological order?(yes/no): ')
 
