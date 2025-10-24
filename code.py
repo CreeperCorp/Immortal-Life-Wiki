@@ -2,7 +2,7 @@ print('Only Season 9 is included right now')
 ifLore = input('Do you want to see Season 9 lore?(yes/no): ')
 
 if (ifLore == 'yes'):
-  print("On day 1, CreepYT got banned after joke betraying, and ECRACreepSplotion got the dragon egg. CreepYT got banned again on day 3. Division and Giggles made the Resin Mound, Ancient Debri Pond, and Temperature Graph Spawn. CreepYT actually left BloodShots and is going rogue. CreepYT created an Orbital Strike Cannon. Division and Ennard are actively looking for the Orbital built by CreepYT. Giggles found the Orbital. After StrengthSMP got added Dash was the first to get max strength (Even though he doesn't know how to use his ultimate). Giggles uses the orbital to kill and reach max strength. PolyPeptide and Finxlly join the active members list. PolyPePtide tries to kill CreepSplotion because he hates the number 9 (he probably wanted to do this before but used this as an excuse), he fails but doesn't die so nothing was lost. Ennard helps Finxlly and gets him 5 kills, 2 of which were on active members (CreepYT & XxFun). PolyPePtide tries to hunt and kill Finxlly but is unsuccesful due to Ennard's defense. Quilver and Batchi join the active members list. Ennard helps Quilver get 4 kills on the server, all on active members (Giggles x2, Division, and PolyPePtide). ")
+  print("On day 1, CreepYT got banned after joke betraying, and ECRACreepSplotion got the dragon egg. CreepYT got banned again on day 3. Division and Giggles made the Resin Mound, Ancient Debri Pond, and Temperature Graph Spawn. CreepYT actually left BloodShots and is going rogue. CreepYT created an Orbital Strike Cannon. Division and Ennard are actively looking for the Orbital built by CreepYT. Giggles found the Orbital. After StrengthSMP got added Dash was the first to get max strength (Even though he doesn't know how to use his ultimate). Giggles uses the orbital to kill and reach max strength. PolyPeptide and Finxlly join the active members list. PolyPePtide tries to kill CreepSplotion because he hates the number 9 (he probably wanted to do this before but used this as an excuse), he fails but doesn't die so nothing was lost. Ennard helps Finxlly and gets him 5 kills, 2 of which were on active members (CreepYT & XxFun). PolyPePtide tries to hunt and kill Finxlly but is unsuccesful due to Ennard's defense. Quilver and Batchi join the active members list. Ennard helps Quilver get 4 kills on the server, all on active members (Giggles x2, Division, and PolyPePtide). After Batchi dies twice, PolyPePtide realizes he'd be at 20 hearts if he banned Batchi, and simply because of how perfect that is he becomes sworn enemies with Batchi without her even knowing. P0ly kills Batchi twice but she thinks it because of the natural mindset of the server. Batchi escapes dying more times.")
   
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
@@ -40,6 +40,8 @@ if (ifVideos == 'yes'):
   print('PolyPePtide: I Actually Hate The Number 9')
   print('Finxlly: Rough Start')
   print('Finxlly: Getting Help')
+  print('ReapSplotion: TOSC')
+  print('Batchi: No Friends Or Enemies')
 
 ifLive = input('Do you want to see Season 9 live streams in chronological order?(yes/no): ')
 
@@ -94,6 +96,8 @@ if (ifLive == 'yes'):
   print("Ennard: Playing With Quilver! | 10/24/25 | 6 hours")
   print("Quilver: IMMORTAL LIFE!!! | 10/24/25 | 8 hours")
   print("Batchi: Joining Immortal Life | 10/24/25 | 11 hours")
+  print("ReapSplotion: 1x1x1x1 | 10/24/25 | 1 hour")
+  print("CreepYT: They Finxlly Killed Me | 10/24/25 | 7 hours")
 
 ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
 
@@ -107,9 +111,9 @@ if (ifHeartCountS9 == 'yes'):
   print('Dash: 8 Hearts')
   print('XxFun: 10 Hearts')
   print('Finxlly: 13 Hearts')
-  print('PolyPeptide: 12 Hearts')
+  print('PolyPeptide: 14 Hearts')
   print('Quilver: 14 Hearts')
-  print('Batchi: 10 Hearts')
+  print('Batchi: 6 Hearts')
 
 ifStrengthCountS9 = input("Do you want to see everyone's strength count in S9?(yes/no): ")
 
@@ -125,15 +129,15 @@ if (ifStrengthCountS9 == 'yes'):
   print('Finxlly: 5 Strength')
   print('PolyPeptide: 3 Strength')
   print('Quilver: 5 + 2 Strength')
-  print('Batchi: 3 Strength')
+  print('Batchi: 1 Strength')
 
 ifTeamsS9 = input("Do you want to see the teams on IMMRTLLS9?(yes/no): ")
 
 if (ifTeamsS9 == 'yes'):
-  print('Bloodshots: CreepSplotion-Dash-XxFun, Allies: Ennard & ReapSplotion')
-  print('TOSC (The Orbital Strike Cannon): Giggles-Division, Allies: PolyPePtide')
-  print('CreepYT; Allies: None')
-  print('QEF: Ennard-Finxlly-Quilver, Allies: CreepSplotion & ReapSplotion')
-  print('ReapSplotion; Allies: QEF & CreepSplotion')
-  print('PolyPePtide; Allies: TOSC')
-  print('Batchi; Allies: None')
+  print('Bloodshots: CreepSplotion-Dash-XxFun, Allies: Ennard & ReapSplotion, Enemies: CreepYT')
+  print('TOSC (The Orbital Strike Cannon): Giggles-Division, Allies: PolyPePtide, Enemies: CreepYT & QEF')
+  print('CreepYT; Allies: PolyPePtide, Enemies: BloodShots-TOSC-QEF')
+  print('QEF: Ennard-Finxlly-Quilver, Allies: CreepSplotion & ReapSplotion, Enemies: TOSC & PolyPePtide')
+  print('ReapSplotion; Allies: QEF & CreepSplotion, Enemies: TOSC')
+  print('PolyPePtide; Allies: TOSC & CreepYT, Enemies: Finxlly & Batchi')
+  print('Batchi; Allies: None, Enemies: None')
