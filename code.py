@@ -2,7 +2,7 @@ print('Only Season 9 is included right now')
 ifLore = input('Do you want to see Season 9 lore?(yes/no): ')
 
 if (ifLore == 'yes'):
-  print("On day 1, CreepYT got banned after joke betraying, and ECRACreepSplotion got the dragon egg. CreepYT got banned again on day 3. Division and Giggles made the Resin Mound, Ancient Debri Pond, and Temperature Graph Spawn. CreepYT actually left BloodShots and is going rogue. CreepYT created an Orbital Strike Cannon. Division and Ennard are actively looking for the Orbital built by CreepYT. Giggles found the Orbital. After StrengthSMP got added Dash was the first to get max strength (Even though he doesn't know how to use his ultimate). Giggles uses the orbital to kill and reach max strength. PolyPeptide and Finxlly join the active members list.")
+  print("On day 1, CreepYT got banned after joke betraying, and ECRACreepSplotion got the dragon egg. CreepYT got banned again on day 3. Division and Giggles made the Resin Mound, Ancient Debri Pond, and Temperature Graph Spawn. CreepYT actually left BloodShots and is going rogue. CreepYT created an Orbital Strike Cannon. Division and Ennard are actively looking for the Orbital built by CreepYT. Giggles found the Orbital. After StrengthSMP got added Dash was the first to get max strength (Even though he doesn't know how to use his ultimate). Giggles uses the orbital to kill and reach max strength. PolyPeptide and Finxlly join the active members list. PolyPePtide tries to kill CreepSplotion because he hates the number 9 (he probably wanted to do this before but used this as an excuse), he fails but doesn't die so nothing was lost.")
   
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
@@ -37,6 +37,7 @@ if (ifVideos == 'yes'):
   print('Finxlly: I Started 1 Month In')
   print('ReapSplotion: Out Of Orbit')
   print('CreepSplotion: Getting Max Strength')
+  print('PolyPePtide: I Actually Hate The Number 9')
 
 ifLive = input('Do you want to see Season 9 live streams in chronological order?(yes/no): ')
 
@@ -89,16 +90,16 @@ if (ifLive == 'yes'):
 ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
 
 if (ifHeartCountS9 == 'yes':
-  print('CreepSplotion: 18 Hearts')
+  print('CreepSplotion: 18 + 27 Hearts')
   print('ReapSplotion: 12 Hearts')
-  print('Ennard: 20 Hearts')
+  print('Ennard: 20 + 1 Hearts')
   print('Division: 14 Hearts')
-  print('Giggles: 20 Hearts')
+  print('Giggles: 20 + 8 Hearts')
   print('CreepYT: 13 Hearts')
   print('Dash: 8 Hearts')
   print('XxFun: 10 Hearts')
-  print('Finxlly: 9 Hearts')
-  print('PolyPeptide: 11 Hearts')
+  print('Finxlly: 7 Hearts')
+  print('PolyPeptide: 13 Hearts')
 
 ifStrengthCountS9 = input("Do you want to see everyone's strength count in S9?(yes/no): ")
 
@@ -111,5 +112,5 @@ if (ifStrengthCountS9 == 'yes':
   print('CreepYT: 5 Strength')
   print('Dash: 5 Strength')
   print('XxFun: 3 Strength')
-  print('Finxlly: 2 Strength')
+  print('Finxlly: 1 Strength')
   print('PolyPeptide: 4 Strength')
