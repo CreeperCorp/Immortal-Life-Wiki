@@ -97,7 +97,7 @@ if (ifLive == 'yes'):
 
 ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
 
-if (ifHeartCountS9 == 'yes':
+if (ifHeartCountS9 == 'yes'):
   print('CreepSplotion: 18 + 27 Hearts')
   print('ReapSplotion: 12 Hearts')
   print('Ennard: 20 + 0 Hearts')
@@ -113,7 +113,7 @@ if (ifHeartCountS9 == 'yes':
 
 ifStrengthCountS9 = input("Do you want to see everyone's strength count in S9?(yes/no): ")
 
-if (ifStrengthCountS9 == 'yes':
+if (ifStrengthCountS9 == 'yes'):
   print('CreepSplotion: 5 Strength')
   print('ReapSplotion: 3 Strength')
   print('Ennard: 4 Strength')
@@ -126,3 +126,14 @@ if (ifStrengthCountS9 == 'yes':
   print('PolyPeptide: 3 Strength')
   print('Quilver: 5 + 2 Strength')
   print('Batchi: 3 Strength')
+
+ifTeamsS9 = input("Do you want to see the teams on IMMRTLLS9?(yes/no): ")
+
+if (ifTeamsS9 == 'yes'):
+  print('Bloodshots: CreepSplotion-Dash-XxFun, Allies: Ennard & ReapSplotion')
+  print('TOSC (The Orbital Strike Cannon): Giggles-Division, Allies: PolyPePtide')
+  print('CreepYT; Allies: None')
+  print('QEF: Ennard-Finxlly-Quilver, Allies: CreepSplotion & ReapSplotion')
+  print('ReapSplotion; Allies: QEF & CreepSplotion')
+  print('PolyPePtide; Allies: TOSC')
+  print('Batchi; Allies: None')
