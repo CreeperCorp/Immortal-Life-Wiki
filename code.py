@@ -5,7 +5,7 @@ if (ifLore == 'yes'):
   print("On day 1, CreepYT got banned after joke betraying, and ECRACreepSplotion got the dragon egg. CreepYT got banned again on day 3. Division and Giggles made the Resin Mound, Ancient Debri Pond, and Temperature Graph Spawn. CreepYT actually left BloodShots and is going rogue. CreepYT created an Orbital Strike Cannon. Division and Ennard are actively looking for the Orbital built by CreepYT. Giggles found the Orbital. After StrengthSMP got added Dash was the first to get max strength (Even though he doesn't know how to use his ultimate). Giggles uses the orbital to kill and reach max strength.")
   print("PolyPeptide and Finxlly join the active members list. PolyPePtide tries to kill CreepSplotion because he hates the number 9 (he probably wanted to do this before but used this as an excuse), he fails but doesn't die so nothing was lost. Ennard helps Finxlly and gets him 5 kills, 2 of which were on active members (CreepYT & XxFun). PolyPePtide tries to hunt and kill Finxlly but is unsuccesful due to Ennard's defense. Quilver and Batchi join the active members list. Ennard helps Quilver get 4 kills on the server, all on active members (Giggles x2, Division, and PolyPePtide). After Batchi dies twice, PolyPePtide realizes he'd be at 20 hearts if he banned Batchi, and simply because of how perfect that is he becomes sworn enemies with Batchi without her even knowing. P0ly kills Batchi twice but she thinks its because of the natural mindset of the server. Batchi escapes dying more times.")
   print("P0ly started a stream and saw that Batchi and Finxlly were online, so he instantly starts searching for them. The rest of QEF was offline so when P0ly found Finxlly he was able to drop him. Finxlly stupidly enough had not set his spawn so P0ly was able to kill him 7 more times. This causes Quilver to log on (Ennard is busy and didn't realize Finxlly was in trouble), and Quilver helps Finxlly gear up again (His 2 extra strength and 4 hearts which puts Quilver back at 10). Quilver then searches for P0ly because he's better than him and would likely win a fight against him. But whilst Quilver is looking for P0ly, P0ly finds Batchi (Bro A Better Detective Than ManePear). P0ly then forces Batchi to set her spawn, in exchange for only killing her 3 times and not 6 (I would say that's stupid but P0ly kinda cracked at hunting so like). This is when Batchi figures out that P0ly just hates her. Eventually P0ly returns back to spawn, and sees Finxlly who was bait. Quilver then pulls up with a mace and pops P0ly, P0ly doesn't have a mace so he starts to dig down. P0ly's been trained by CreepSplotion for 1x1 pvp so he has the advantage. Quilver then pops 3 of his 5 totems and starts to run away, but P0ly chases him and pops him again. Quilver then pops his only egap and tries to quick drop P0ly, which works as P0ly pops his last totem. However P0ly knows from CreepSplotion that in 1x1 pvp its better to ignore your health, so he's able to pop Quilver again which forces him to run even though P0ly's 2 hearts with no sat. Somehow P0ly able to make a video about this in 5 seconds (exaggeration). CreepSplotion logs on and sees Quilver running from the fight, realizing that P0ly won because of his teaching. CreepSplotion then leaks that Finxlly is hiding behind a rock and P0ly goes to kill Finxlly. CreepYT logs on (off stream) and comes to spawn, in which Creep instantly jumps him. Since CreepYT and P0ly are allied P0ly helps CreepYT, and they are able to escape through the use of CreepYT's OBS. CreepYT then starts his stream.")
-  print("Joc3e and R3zzignation then join as active members (R3zzignation doesn't stream his first join). Joc3e's goal this season is to get better at minecraft and get atleast ECRA Rank 10 in MC. R3zz immediately kills Joc3e and dips from spawn, which proves why Joc3e needs to reach her goal even more. R3zz then creates a team with P0ly called P0lyR3zzolution. P0ly then shares his hard earned hearts and strength. R3zz then finds Batchi and demands a welcome gift, when given 5 iron R3zz drops Batchi with his fist. R3zz then searches for Finxlly, so he could taunt him for being washed. In proof of his point, Finxlly fails to drop R3zz and R3zz gets away. Then R3zz comes back with P0ly and they both clap Finxlly together.")
+  print("Joc3e and R3zzignation then join as active members (R3zzignation doesn't stream his first join). Joc3e's goal this season is to get better at minecraft and get atleast ECRA Rank 10 in MC. R3zz immediately kills Joc3e and dips from spawn, which proves why Joc3e needs to reach her goal even more. R3zz then creates a team with P0ly called P0lyR3zzolution. P0ly then shares his hard earned hearts and strength. R3zz then finds Batchi and demands a welcome gift, when given 5 iron R3zz drops Batchi with his fist. R3zz then searches for Finxlly, so he could taunt him for being washed. In proof of his point, Finxlly fails to drop R3zz and R3zz gets away. Then R3zz comes back with P0ly and they both clap Finxlly together. R3zz then leaves for 5 minutes and comes back on live. For R3zz's 20th heart he wants to kill someone from Season 1, which since their allied with TOSC, the only people they could kill are Creep, Reap, Ennard, XxFun, or Dash. They end up going for Ennard (Who Just Logged On) because he's teamed with Finxlly & Quilver. After grinding 2 shulkers of totems, they jump Ennard in an Ancient City (Because P0ly's Cracked At Hunting) and purposely spawn 50 wardens. They get all the wardens agroed on Ennard and after 30 minutes Ennard gets drained and his armor breaks. After this Ennard instantly dies to R3zz. Ennard also had 7 hearts in his inv (He withdrew them for absolutely no reason)")
   
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
@@ -110,24 +110,26 @@ if (ifLive == 'yes'):
   print("CreepSplotion: I'm Black | 10/25/25 | 8 hours")
   print("CreepYT: Creep JS Jumped Me | 10/25/25 | 11 hours")
   print("Joc3e: Time To Climb The ECRA MC LB | 10/25/25 | 8 hours")
+  print("R3zz: I Did Some Off Screen Mining | 10/25/25 | 12 hours")
+  print("Ennard: Grinding For QEF | 10/25/25 | 6 hours")
 
 ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
 
 if (ifHeartCountS9 == 'yes'):
   print('CreepSplotion: 18 + 27 Hearts')
   print('ReapSplotion: 12 Hearts')
-  print('Ennard: 20 + 0 Hearts')
+  print('Ennard: 12 + 0 Hearts')
   print('Division: 13 Hearts')
   print('Giggles: 20 + 6 Hearts')
   print('CreepYT: 12 Hearts')
   print('Dash: 8 Hearts')
   print('XxFun: 10 Hearts')
   print('Finxlly: 7 Hearts')
-  print('PolyPeptide: 20 + 0 Hearts')
+  print('PolyPeptide: 20 + 4 Hearts')
   print('Quilver: 10 Hearts')
   print('Batchi: 2 Hearts')
   print('Joc3e: 9 Hearts')
-  print('R3zzignation: 19 Hearts')
+  print('R3zzignation: 20 + 5 Hearts')
 
 ifStrengthCountS9 = input("Do you want to see everyone's strength count in S9?(yes/no): ")
 
@@ -153,7 +155,7 @@ if (ifTeamsS9 == 'yes'):
   print('Bloodshots: CreepSplotion-Dash-XxFun, Allies: Ennard & ReapSplotion, Enemies: CreepYT')
   print('TOSC (The Orbital Strike Cannon): Giggles-Division, Allies: PolyPePtide, Enemies: CreepYT & QEF')
   print('CreepYT; Allies: PolyPePtide, Enemies: BloodShots-TOSC-QEF')
-  print('QEF: Ennard-Finxlly-Quilver, Allies: CreepSplotion & ReapSplotion, Enemies: TOSC & PolyPePtide')
+  print('QEF: Ennard-Finxlly-Quilver, Allies: CreepSplotion & ReapSplotion, Enemies: TOSC-P0lyR3zzolution')
   print('P0lyR3zzolution: P0ly-R3zz, Allies: TOSC & CreepYT, Enemies: Finxlly-Batchi-Quilver')
   print('ReapSplotion; Allies: QEF & CreepSplotion, Enemies: TOSC')
   print('Batchi; Allies: None, Enemies: PolyPePtide')
