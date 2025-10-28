@@ -8,6 +8,7 @@ if (ifLore == 'yes'):
   print("Joc3e and R3zzignation then join as active members (R3zzignation doesn't stream his first join). Joc3e's goal this season is to get better at minecraft and get atleast ECRA Rank 10 in MC. R3zz immediately kills Joc3e and dips from spawn, which proves why Joc3e needs to reach her goal even more. R3zz then creates a team with P0ly called P0lyR3zzolution. P0ly then shares his hard earned hearts and strength. R3zz then finds Batchi and demands a welcome gift, when given 5 iron R3zz drops Batchi with his fist. R3zz then searches for Finxlly, so he could taunt him for being washed. In proof of his point, Finxlly fails to drop R3zz and R3zz gets away. Then R3zz comes back with P0ly and they both clap Finxlly together. R3zz then leaves for 5 minutes and comes back on live. For R3zz's 20th heart he wants to kill someone from Season 1, which since their allied with TOSC, the only people they could kill are Creep, Reap, Ennard, XxFun, or Dash. They end up going for Ennard (Who Just Logged On) because he's teamed with Finxlly & Quilver. After grinding 2 shulkers of totems, they jump Ennard in an Ancient City (Because P0ly's Cracked At Hunting) and purposely spawn 50 wardens. They get all the wardens agroed on Ennard and after 30 minutes Ennard gets drained and his armor breaks. After this Ennard instantly dies to R3zz. Ennard also had 7 hearts in his inv (He withdrew them for absolutely no reason)")
   print("R3zz0 joins as an active member. He's instantly chased and killed by Joc3e who wants to earn back her heart. R3zz0 then grinds full diamond before meeting with his older brother R3zz. He then enchants his gear and goes to find Joc3e by himself. Joc3e then finds Batchi, and since they have a common enemy they decide to team. Joc3e then gives Batchi 3 hearts. However P0ly had hunted them down and signaled their exact location to R3zz0, who in 2 minutes flys in and ely maces Joc3e to start the fight. P0ly asked if they were going to spare Batchi (they didn't know they had just teamed) but R3zz0 killed her without hesitation. R3zz0 then gets jumped by all of QEF, almost dropping instantly but he pops an egap and pearls out. After calling R3zz, P0ly maces Finxlly instantly popping his totem. He then keeps targeting Finxlly with his mace until Ennard wind charges him, but using an elytra P0ly flys to limit and pops all of Finxlly's armor. P0ly then drops Finxlly quickly. R3zz0 who's 1v1ing Quilver pops his only totem, and is about to drop when R3zz comes in and drops R3zz0 another. R3zz0 and R3zz 2v1 Quilver while P0ly 1v1s Ennard. R3zz0 and R3zz pop Quilver's only totem and Quilver's about to drop when he uses an elytra to fly up and mace R3zz but it only does 7 hearts. Ennard then kills P0ly after popping again, and 2v2s R3zz0 and R3zz. After seeing P0ly die TOSC then ask R3zz for their location and Division pulls up, leaving Giggles at the Orbital control room. Division then forces his brother into a 1v1 and R3zz0 and R3zz are able to 2v1 Quilver again. Soon after this Quilver drops to R3zz0 whilst Division pops a totem. R3zz0, R3zz and Division then 3v1 Ennard. Ennard's about to kill R3zz when Giggles strike him with a direct stab, popping his totem. Ennard has 4 more totems left, but is unable to recover from the stab so he pops another to Division's mace. Ennard then get's 3v1d unable to regain his health, popping another totem to another one of Giggles' stabs. Giggles then send 2 stabs back to back, which would've killed Ennard if he didn't have both his totems in his hotbar. Ennard now has no totems, and easily drops to the 3v1 (Division got the kill credit but he gives R3zz0 the heart and strength). This causes QEF and Bac3e to ally. After Ennard dies for the 2nd time to P0lyR3zzzz0lution he calls CreepSplotion to help him, but Creep says he's cool with P0lyR3zzzz0lution and doesn't do anything about it. This causes Ennard to break ties with CreepSplotion.")
   print("R3zz0 logs on and is instantly jumped by QEF, both of his teammates are offline because they won't be on for a bit. R3zz0 tries to escape but pops a totem, and starts digging a 1 by 1. Then CreepYT logs on and R3zz0 asks him to start stabbing. QEF don't know that R3zz0 is allied with R3zz0 so they keep fighting him. Then Finxlly gets 1 shot by a stab, which gave R3zz0 the kill credit because he hit Finxlly 5 seconds ago. Thinking that CreepYT's trying to kill all of them, Quilver and Ennard keep trying to kill Finxlly. This is when another stab gets fired, almost killing both Ennard and Quilver. R3zz0 then takes this opportunity to target Quilver, dropping him within 5 seconds. Ennard then realizes that CreepYT is helping R3zz0 and escapes the fight. After this fight R3zz0 gives 1 of the hearts to CreepYT for helping. R3zz0 then goes to spawn, where he accidentally sees Joc3e uncrouch and crouch again underground. R3zz0 then finds Joc3e and Batchi under spawn, and kills them without hesitation. After seeing this, Ennard goes to spawn and instantly pops one of R3zz0's totems, Ennard knows that CreepYT wouldn't stab spawn. R3zz0 however instantly runs out of spawn and jumps into one of CreepYT's stabs. Ennard follows, trying to wind charge to not take fall damage, but then he realizes that R3zz0 had pearled back up. Ennard not having any pearls, quickly found out why as he died to the void. The bedrock in the stab had been broken and turned into a void trap, marking the 3rd time Ennard had died to PolyR3zzzz0lution. Finxlly got the kill credit as he hit Ennard before jumping in the stab. He doesn't get the extra strength though as he was at max, so the strength dropped into the void. But this is just the start of the trap. Earlier (After he got jumped at spawn and popped a totem) R3zz0 had dodged Ennard's mace by placing a bed above his head. Ennard had slept in the bed like an idiot because he didn't want to take fall damage (Even though beds reduce fall damage). He also forgot to place the bed, so Ennard spawned at spawn. R3zz0 then spawn killed Ennard 3 times before he stopped respawning and waited for his teammates to go to spawn. When Finxlly and Quilver appeared at spawn, R3zz0 instantly killed Quilver with his mace as the idiot didn't bring any totems and was left to 1v1 Finxlly who only had 5 hearts. Even though Finxlly is better than R3zz0, its 20v1 hearts, Finxlly lost after 12 minutes (the lowest R3zz0 got was 12 hearts). Ennard got killed 1 more time because he tried to respawn during the fight.")
+  print("XRayz joins the active members list. XRayz joins when nobody else is on, and gets full diamond easily. However it takes him 3 hours to max enchant all of his items. By this point R3zz0 and R3zz had logged on, but nobody else. After XRayz accidentally dies to fall damage, he gets spotted by R3zz0. However R3zz0 doesn't kill him, and instead gives him a welcome gift of 3 netherite ingots and an echest. This is when both Bac3e members log on, and XRayz decides he wants to be the first to ban someone on the server (CreepYT's the only person to get banned, and he died of natural causes 2 times). XRayz then searches for Bac3e, finding them within 100 blocks of spawn. He then kills them both and then goes to look for P0ly to propose a deal. XRayz finds P0ly and proposes that he can help P0ly kill QEF. P0ly agrees and with P0ly and XRayz' hunting skills combined they are able to track down the location of Ennard, but they don't jump him until he starts heading to his base. With help from CreepYT's POBS along side his regular one, they are able to drop Ennard before he can get backup. They then combine their hunting skills again to locate QEF's base and they get CreepYT to POBS the base (Pen-ultimate Orbital Strike: stab but sideways and more powerful as it doesn't lag and shoots within 5 seconds). This kills Quilver but Finxlly is able to escape. They let CreepYT keep the heart. After this Quilver crafts 2 hearts putting him at 9, and he gives materials to Finxlly and Ennard to craft hearts too (2 hearts each). XRayz then grinds for heart materials, and offers to give them to Bac3e. Bac3e accepts and XRayz meets them alone, but Bac3e brings Finxlly. This hurts XRayz' plans as he wanted to drop the Bac3e members, after giving the materials, he still goes through with his plan. XRayz quickly drops Batchi but Joc3e has totems and 2 more hearts. XRayz then has to fight Finxlly, which he just runs away from.")
   
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
@@ -132,25 +133,27 @@ if (ifLive == 'yes'):
   print("Ennard: R3zz0 logged on | 10/27/25 | 2 hours")
   print("Quilver: Revenge? | 10/27/25 | 1 hour")
   print("Finxlly: 3v1 | 10/27/25 | 1 hour")
+  print("XRayz: Nobody's On | 10/28/25 | 12 hours")
 
 ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
 
 if (ifHeartCountS9 == 'yes'):
   print('CreepSplotion: 18 + 27 Hearts')
   print('ReapSplotion: 12 Hearts')
-  print('Ennard: 6 + 0 Hearts')
+  print('Ennard: 7 + 0 Hearts')
   print('Division: 13 Hearts')
   print('Giggles: 20 + 6 Hearts')
-  print('CreepYT: 13 Hearts')
+  print('CreepYT: 14 Hearts')
   print('Dash: 8 Hearts')
   print('XxFun: 10 Hearts')
-  print('Finxlly: 5 Hearts')
+  print('Finxlly: 7 Hearts')
   print('PolyPeptide: 20 + 4 Hearts')
-  print('Quilver: 8 Hearts')
-  print('Batchi: 3 Hearts')
-  print('Joc3e: 5 Hearts')
+  print('Quilver: 9 Hearts')
+  print('Batchi: 2 Hearts')
+  print('Joc3e: 4 Hearts')
   print('R3zzignation: 20 + 5 Hearts')
   print('R3zz0lution: 20 + 1 Hearts')
+  print('XRayz: 12 Hearts')
 
 ifStrengthCountS9 = input("Do you want to see everyone's strength count in S9?(yes/no): ")
 
@@ -164,12 +167,13 @@ if (ifStrengthCountS9 == 'yes'):
   print('Dash: 5 Strength')
   print('XxFun: 3 Strength')
   print('Finxlly: 1 Strength')
-  print('PolyPeptide: 5 + 10 Strength')
-  print('Quilver: 3 + 0 Strength')
+  print('PolyPeptide: 5 + 11 Strength')
+  print('Quilver: 2 + 0 Strength')
   print('Batchi: 1 Strength')
   print('Joc3e: 1 Strength')
   print('R3zzignation: 5 + 1 Strength')
   print('R3zz0lution: 5 + 7 Strength')
+  print('XRayz: 5 + 1 Strength')
 
 ifTeamsS9 = input("Do you want to see the teams on IMMRTLLS9?(yes/no): ")
 
@@ -177,7 +181,8 @@ if (ifTeamsS9 == 'yes'):
   print('Bloodshots: CreepSplotion-Dash-XxFun, Allies: ReapSplotion, Enemies: CreepYT')
   print('TOSC (The Orbital Strike Cannon): Giggles-Division, Allies: PolyPePtide, Enemies: CreepYT & QEF')
   print('CreepYT; Allies: PolyPePtide, Enemies: BloodShots-TOSC-QEF')
-  print('QEF: Ennard-Finxlly-Quilver, Allies: ReapSplotion-Bac3e, Enemies: TOSC-P0lyR3zzolution')
-  print('P0lyR3zzzz0lution: P0ly-R3zz-R3zz0, Allies: TOSC & CreepYT, Enemies: Finxlly-Batchi-Quilver-Joc3e')
+  print('QEF: Ennard-Finxlly-Quilver, Allies: ReapSplotion-Bac3e, Enemies: TOSC-P0lyR3zzolution-XRayz')
+  print('P0lyR3zzzz0lution: P0ly-R3zz-R3zz0, Allies: TOSC-CreepYT-XRayz, Enemies: Finxlly-Batchi-Quilver-Joc3e')
   print('ReapSplotion; Allies: QEF & CreepSplotion, Enemies: TOSC')
   print('Bac3e: Batchi-Joc3e, Allies: QEF, Enemies: P0lyR3zzzzolution')
+  print('XRayz; Allies: PolyPePtide, Enemies: None')
