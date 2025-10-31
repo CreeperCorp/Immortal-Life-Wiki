@@ -11,6 +11,7 @@ if (ifLore == 'yes'):
   print("XRayz joins the active members list. XRayz joins when nobody else is on, and gets full diamond easily. However it takes him 3 hours to max enchant all of his items. By this point R3zz0 and R3zz had logged on, but nobody else. After XRayz accidentally dies to fall damage, he gets spotted by R3zz0. However R3zz0 doesn't kill him, and instead gives him a welcome gift of 3 netherite ingots and an echest. This is when both Bac3e members log on, and XRayz decides he wants to be the first to ban someone on the server (CreepYT's the only person to get banned, and he died of natural causes 2 times). XRayz then searches for Bac3e, finding them within 100 blocks of spawn. He then kills them both and then goes to look for P0ly to propose a deal. XRayz finds P0ly and proposes that he can help P0ly kill QEF. P0ly agrees and with P0ly and XRayz' hunting skills combined they are able to track down the location of Ennard, but they don't jump him until he starts heading to his base. With help from CreepYT's POBS along side his regular one, they are able to drop Ennard before he can get backup. They then combine their hunting skills again to locate QEF's base and they get CreepYT to POBS the base (Pen-ultimate Orbital Strike: stab but sideways and more powerful as it doesn't lag and shoots within 5 seconds). This kills Quilver but Finxlly is able to escape. They let CreepYT keep the heart. After this Quilver crafts 2 hearts putting him at 9, and he gives materials to Finxlly and Ennard to craft hearts too (2 hearts each). XRayz then grinds for heart materials, and offers to give them to Bac3e. Bac3e accepts and XRayz meets them alone, but Bac3e brings Finxlly. This hurts XRayz' plans as he wanted to drop the Bac3e members, after giving the materials, he still goes through with his plan. XRayz quickly drops Batchi but Joc3e has totems and 2 more hearts. XRayz then has to fight Finxlly, which he just runs away from.")
   print("XRayz decides he's going to start a fake war. This war would be between a team called DA (Democratic Allegience) and P0lyR3zzzz0lution. P0lyR3zzzz is in on the fake war.")
   print("aXc3L & UnScr3pted join the active members list.")
+  print
   
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
@@ -143,6 +144,12 @@ if (ifLive == 'yes'):
   print("XRayz: The First War | 10/31/25 | Still Going")
   print("P0ly: Starting A Heart Monopoly | 10/31/25 | Still Going")
   print("R3zz: Heart Monopoly | 10/31/25 | Still Going")
+  print("R3zz0: The End Of The Beginning | 10/31/25 | Still Going")
+  print("UnScr3pted: I Joined At A Horrible Time | 10/31/25 | Still Going")
+  print("aXc3L: Joining P0lyR3zzzz0lution | 10/31/25 | Still Going")
+  print("CreepSplotion: Monopolies Are Cool | 10/31/25 | Still Going")
+  print("ReapSplotion: Fun | 10/31/25 | Still Going")
+  print("
 
 ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
 
@@ -191,13 +198,13 @@ if (ifStrengthCountS9 == 'yes'):
 ifTeamsS9 = input("Do you want to see the teams on IMMRTLLS9?(yes/no): ")
 
 if (ifTeamsS9 == 'yes'):
-  print('Bloodshots: CreepSplotion-Dash-XxFun, Allies: ReapSplotion, Enemies: CreepYT')
+  print('Bloodshots: CreepSplotion-Dash-XxFun, Allies: ReapSplotion-P0lyR3zzzz0lution, Enemies: CreepYT')
   print('TOSC (The Orbital Strike Cannon): Giggles-Division, Allies: PolyPePtide, Enemies: CreepYT & QEF')
   print('CreepYT; Allies: PolyPePtide, Enemies: BloodShots-TOSC-QEF')
   print('QEF: Ennard-Finxlly-Quilver, Allies: ReapSplotion-Bac3e, Enemies: TOSC-P0lyR3zzolution-XRayz')
   print('P0lyR3zzzz0lution: P0ly-R3zz-R3zz0, Allies: TOSC-CreepYT-XRayz, Enemies: Finxlly-Batchi-Quilver-Joc3e')
   print('ReapSplotion; Allies: QEF & CreepSplotion, Enemies: TOSC')
   print('Bac3e: Batchi-Joc3e, Allies: QEF, Enemies: P0lyR3zzzzolution')
-  print('DA: XRayz, Allies: PolyPePtide (Hidden)-QEF-TOSC-Bac3e, Enemies: P0lyR3zzzz0lution (Fake)')
-  print('aXc3L; Allies: None, Enemies: None')
+  print('DA: XRayz, Allies: P0lyR3zzzz0lution (Hidden)-QEF-TOSC-Bac3e, Enemies: P0lyR3zzzz0lution (Fake)')
+  print('aXc3L; Allies: P0lyR3zzzz0lution, Enemies: XRayz (Fake)-DA')
   print('UnScr3pted; Allies: None, Enemies: None')
