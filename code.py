@@ -1,4 +1,10 @@
 print('Only Season 9 is included right now')
+
+rulesS9 = input('Do you want to see the Season 9 rules?(yes/no): ')
+
+if (rulesS9 == 'yes'):
+  print("You can craft up to 9 hearts, and 2 strength. Other than this, no hacking or breaking IOU's.")
+
 ifLore = input('Do you want to see Season 9 lore?(yes/no): ')
 
 if (ifLore == 'yes'):
@@ -11,6 +17,7 @@ if (ifLore == 'yes'):
   print("XRayz joins the active members list. XRayz joins when nobody else is on, and gets full diamond easily. However it takes him 3 hours to max enchant all of his items. By this point R3zz0 and R3zz had logged on, but nobody else. After XRayz accidentally dies to fall damage, he gets spotted by R3zz0. However R3zz0 doesn't kill him, and instead gives him a welcome gift of 3 netherite ingots and an echest. This is when both Bac3e members log on, and XRayz decides he wants to be the first to ban someone on the server (CreepYT's the only person to get banned, and he died of natural causes 2 times). XRayz then searches for Bac3e, finding them within 100 blocks of spawn. He then kills them both and then goes to look for P0ly to propose a deal. XRayz finds P0ly and proposes that he can help P0ly kill QEF. P0ly agrees and with P0ly and XRayz' hunting skills combined they are able to track down the location of Ennard, but they don't jump him until he starts heading to his base. With help from CreepYT's POBS along side his regular one, they are able to drop Ennard before he can get backup. They then combine their hunting skills again to locate QEF's base and they get CreepYT to POBS the base (Pen-ultimate Orbital Strike: stab but sideways and more powerful as it doesn't lag and shoots within 5 seconds). This kills Quilver but Finxlly is able to escape. They let CreepYT keep the heart. After this Quilver crafts 2 hearts putting him at 9, and he gives materials to Finxlly and Ennard to craft hearts too (2 hearts each). XRayz then grinds for heart materials, and offers to give them to Bac3e. Bac3e accepts and XRayz meets them alone, but Bac3e brings Finxlly. This hurts XRayz' plans as he wanted to drop the Bac3e members, after giving the materials, he still goes through with his plan. XRayz quickly drops Batchi but Joc3e has totems and 2 more hearts. XRayz then has to fight Finxlly, which he just runs away from.")
   print("XRayz decides he's going to start a fake war. This war would be between a team called DA (Democratic Allegience) and P0lyR3zzzz0lution. P0lyR3zzzz is in on the fake war.")
   print("aXc3L & UnScr3pted join the active members list. The Heart Extinguishing War starts at spawn (Everyone is at spawn), when R3zz0 kills Batchi. Then DA instantly focus R3zz0 as he's the best on P0lyR3zzzz, this allows XRayz to ban Batchi when she comes back (saying it was on accident). aXc3L hasn't openly joined P0lyR3zzzz so this allows him to pick off Joc3e, and pop one of Quilver's totems. However this isn't all, he had created a trap exactly where XRayz had told Quilver to stand. So Finxlly instantly gets dropped into the void (No Kill Credit). Finxlly joins back the fight as he has a back up set. CreepSplotion then decides to do something and crushes the soul in Ennard's body (Fully Betraying Him). He then does this with Joc3e & Quilver when they return. When Ennard returns he instantly ely maces R3zz0 who didn't carry any totems with him, causing him to die. R3zz0 returns however and starts spamming ely mace (Killing Finxlly, Quilver (again ik), ReapSplotion (Though he was afk), and UnScr3pted (Who's openly on DA not P0lyR3zzzz). Ennard then kills P0ly, but not before he spawn kills Joc3e. CreepSplotion then bans Joc3e. CreepSplotion then withdraws to 2 hearts for fun. P0ly comes back and kills UnScr3pted again (to make it look realistic). R3zz gives UnScr3pted 5 extra hearts behind the scenes. CreepYT then pulls out his POBS and kills Ennard & ReapSplotion (UnScr3pted picks up the hearts, so that he can be killed twice with a net positive). Giggles then jumps into the fight and UnScr3pted lets him kill him. P0ly then elys away to find Ennard's spawn point, letting Division obs (he doesn't have a pobs because he isn't a redstone master like CreepYT) Ennard. P0ly is able to find Ennard's spawn point after Division obs's him again because Ennard stays in his base (Giggles picks up the hearts & UnScr3pted gets the strength). P0ly then kills Ennard in his base and breaks his spawn point, looting his base while letting his teammates deal with Ennard. Ennard gets killed 4 times by R3zz0 (Who gives the hearts to UnScr3pted). Ennard gets banned for the first time in Immortal Life history. At this point DA run away (The only person not dying is XRayz.). CreepYT is able to pick off Finxlly and UnScr3pted while their running. (R3zz gets the hearts and gives them to CreepYT). The Heart Extinguishing War is over (P0lyR3zzzz0lution wins). Quilver was actually cooking during the fight btw (He accidentally fried off his space key and now it doesn't work). Quilver ends stream to actually do a cooking stream, P0ly logs off for the day, and R3zz logs off for the day. Depending on the max hearts a player had within a week of getting death banned, they need a more powerful beacon, and since Ennard had more than 20 extra hearts, his beacon requires the dragon egg, which CreepSplotion has, and CreepSplotion isn't teamed with Ennard anymore. Joc3e and Batchi just need a normal beacon.")
+  print("XRayz joins and grinds gear for the DA, Quilver tries to obtain the dragon egg from CreepSplotion, and Finxlly crafts up to 9 hearts (the max you can craft up to).")
   
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
@@ -168,6 +175,9 @@ if (ifLive == 'yes'):
   print("Quilver: Cooking Stream | 10/31/25 | 5 hours")
   print("Batchi: Hopefully I Don't Get Banned | 10/31/25 | 2 hours")
   print("Joc3e: Poving Myself I Think | 10/31/25 | 3 hours")
+  print("XRayz: Grinding For DA | 11/1/25 | 17 hours")
+  print("Quilver: The Hunt For The Dragon Egg | 11/1/25 | 20 hours")
+  print("Finxlly: Finxlly Crafting Hearts | 11/1/25 | 12 hours")
 
 ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
 
@@ -180,7 +190,7 @@ if (ifHeartCountS9 == 'yes'):
   print('CreepYT: 18 Hearts')
   print('Dash: 8 Hearts')
   print('XxFun: 10 Hearts')
-  print('Finxlly: 4 Hearts')
+  print('Finxlly: 9 Hearts')
   print('PolyPeptide: 20 + 5 Hearts')
   print('Quilver: 7 Hearts')
   print('Batchi: 0 Hearts (BANNED)')
