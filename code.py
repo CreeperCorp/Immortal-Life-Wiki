@@ -178,6 +178,9 @@ if (ifLive == 'yes'):
   print("XRayz: Grinding For DA | 11/1/25 | 17 hours")
   print("Quilver: The Hunt For The Dragon Egg | 11/1/25 | 20 hours")
   print("Finxlly: Finxlly Crafting Hearts | 11/1/25 | 12 hours")
+  print("PolyPePtide: Killing The Server | 11/2/25 | 8 hours")
+  print("PolyPePtide: Everyone Else In ECRA Is Recording A CC Video Until Friday | 11/3/25 | 9 hours")
+  print("P0ly: Building P0ly The Pird | 11/4/25 | 20 hours")
 
 ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
 
