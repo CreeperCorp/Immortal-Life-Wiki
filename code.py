@@ -76,6 +76,7 @@ if (ifVideos == 'yes'):
   print("Finxlly: *So...*")
   print("R3zz0: *BANNING ENNARD*")
   print("CreepYT: The Power Of My Custom Built Pen-Ultimate Orbital Strike")
+  print("P0ly: *ECRA Left For A Week, And I Used It To Build A Prison*")
 
 ifLive = input('Do you want to see Season 9 live streams in chronological order?(yes/no): ')
 
@@ -181,6 +182,7 @@ if (ifLive == 'yes'):
   print("PolyPePtide: Killing The Server | 11/2/25 | 8 hours")
   print("PolyPePtide: Everyone Else In ECRA Is Recording A CC Video Until Friday | 11/3/25 | 9 hours")
   print("P0ly: Building P0ly The Pird | 11/4/25 | 20 hours")
+  print("P0ly: The Last Day Alone | 11/7/25 | 10 hours")
 
 ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
 
