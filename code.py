@@ -19,6 +19,7 @@ if (ifLore == 'yes'):
   print("aXc3L & UnScr3pted join the active members list. The Heart Extinguishing War starts at spawn (Everyone is at spawn), when R3zz0 kills Batchi. Then DA instantly focus R3zz0 as he's the best on P0lyR3zzzz, this allows XRayz to ban Batchi when she comes back (saying it was on accident). aXc3L hasn't openly joined P0lyR3zzzz so this allows him to pick off Joc3e, and pop one of Quilver's totems. However this isn't all, he had created a trap exactly where XRayz had told Quilver to stand. So Finxlly instantly gets dropped into the void (No Kill Credit). Finxlly joins back the fight as he has a back up set. CreepSplotion then decides to do something and crushes the soul in Ennard's body (Fully Betraying Him). He then does this with Joc3e & Quilver when they return. When Ennard returns he instantly ely maces R3zz0 who didn't carry any totems with him, causing him to die. R3zz0 returns however and starts spamming ely mace (Killing Finxlly, Quilver (again ik), ReapSplotion (Though he was afk), and UnScr3pted (Who's openly on DA not P0lyR3zzzz). Ennard then kills P0ly, but not before he spawn kills Joc3e. CreepSplotion then bans Joc3e. CreepSplotion then withdraws to 2 hearts for fun. P0ly comes back and kills UnScr3pted again (to make it look realistic). R3zz gives UnScr3pted 5 extra hearts behind the scenes. CreepYT then pulls out his POBS and kills Ennard & ReapSplotion (UnScr3pted picks up the hearts, so that he can be killed twice with a net positive). Giggles then jumps into the fight and UnScr3pted lets him kill him. P0ly then elys away to find Ennard's spawn point, letting Division obs (he doesn't have a pobs because he isn't a redstone master like CreepYT) Ennard. P0ly is able to find Ennard's spawn point after Division obs's him again because Ennard stays in his base (Giggles picks up the hearts & UnScr3pted gets the strength). P0ly then kills Ennard in his base and breaks his spawn point, looting his base while letting his teammates deal with Ennard. Ennard gets killed 4 times by R3zz0 (Who gives the hearts to UnScr3pted). Ennard gets banned for the first time in Immortal Life history. At this point DA run away (The only person not dying is XRayz.). CreepYT is able to pick off Finxlly and UnScr3pted while their running. (R3zz gets the hearts and gives them to CreepYT). The Heart Extinguishing War is over (P0lyR3zzzz0lution wins). Quilver was actually cooking during the fight btw (He accidentally fried off his space key and now it doesn't work). Quilver ends stream to actually do a cooking stream, P0ly logs off for the day, and R3zz logs off for the day. Depending on the max hearts a player had within a week of getting death banned, they need a more powerful beacon, and since Ennard had more than 20 extra hearts, his beacon requires the dragon egg, which CreepSplotion has, and CreepSplotion isn't teamed with Ennard anymore. Joc3e and Batchi just need a normal beacon.")
   print("XRayz joins and grinds gear for the DA, Quilver tries to obtain the dragon egg from CreepSplotion, and Finxlly crafts up to 9 hearts (the max you can craft up to).")
   print("While the rest of ECRA are gone for the week, P0ly builds a prison next to spawn, planning to trap QEC with it.")
+  print("DA announce they are going to start another war on sunday because of the prison. Which wasn't a good idea because in retaliation CreepYT helps P0lyR3zzzz trap Quilver in the prison.")
   
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
@@ -78,6 +79,8 @@ if (ifVideos == 'yes'):
   print("R3zz0: *BANNING ENNARD*")
   print("CreepYT: The Power Of My Custom Built Pen-Ultimate Orbital Strike")
   print("P0ly: *ECRA Left For A Week, And I Used It To Build A Prison*")
+  print("R3zz0: *Trapping Quilver*")
+  print("R3zz: P0ly Built A Prison")
 
 ifLive = input('Do you want to see Season 9 live streams in chronological order?(yes/no): ')
 
@@ -165,7 +168,7 @@ if (ifLive == 'yes'):
   print("P0ly: Starting A Heart Monopoly | 10/31/25 | 5 hours")
   print("R3zz: Heart Monopoly | 10/31/25 | 5 hours")
   print("R3zz0: The End Of The Beginning | 10/31/25 | 17 hours")
-  print("UnScr3pted: I Joined At A Horrible Time | 10/31/25 | 20 hours")
+  print("UnScr1pted: I Joined At A Horrible Time | 10/31/25 | 20 hours")
   print("aXc3L: Joining P0lyR3zzzz0lution | 10/31/25 | 24 hours")
   print("CreepSplotion: Monopolies Are Cool | 10/31/25 | 10 hours")
   print("ReapSplotion: Fun | 10/31/25 | 20 hours")
@@ -184,6 +187,13 @@ if (ifLive == 'yes'):
   print("PolyPePtide: Everyone Else In ECRA Is Recording A CC Video Until Friday | 11/3/25 | 9 hours")
   print("P0ly: Building P0ly The Pird | 11/4/25 | 20 hours")
   print("P0ly: The Last Day Alone | 11/7/25 | 10 hours")
+  print("R3zz: Prison Warden | 11/8/25 | 20 hours")
+  print("R3zz0: Quiet | 11/8/25 | 20 hours")
+  print("P0ly: Terrorism | 11/8/25 | 17 hours")
+  print("XRayz: Back From Trip | 11/8/25 | 23 hours")
+  print("aXc3L: 2nd Stream | 11/8/25 | 17 hours")
+  print("UnScr1pted: Time To Script This Season | 11/8/25 | 15 hours")
+  print("Giggles: Huh | 11/8/25 | 10 hours")
 
 ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
 
@@ -241,4 +251,4 @@ if (ifTeamsS9 == 'yes'):
   print('Bac3e (DEATH BANNED): Batchi-Joc3e, Allies: QEF-DA, Enemies: P0lyR3zzzzolution')
   print('DA: XRayz, Allies: P0lyR3zzzz0lution (Hidden)-QEF-TOSC-Bac3e, Enemies: P0lyR3zzzz0lution (Fake)')
   print('aXc3L; Allies: P0lyR3zzzz0lution, Enemies: XRayz (Fake)-DA')
-  print('UnScr3pted; Allies: XRayz-P0lyR3zzzz0lution, Enemies: DA')
+  print('UnScr1pted; Allies: XRayz-P0lyR3zzzz0lution, Enemies: DA')
