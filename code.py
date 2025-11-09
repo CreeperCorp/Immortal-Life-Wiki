@@ -20,6 +20,7 @@ if (ifLore == 'yes'):
   print("XRayz joins and grinds gear for the DA, Quilver tries to obtain the dragon egg from CreepSplotion, and Finxlly crafts up to 9 hearts (the max you can craft up to).")
   print("While the rest of ECRA are gone for the week, P0ly builds a prison next to spawn, planning to trap QEC with it.")
   print("DA announce they are going to start another war on sunday because of the prison. Which wasn't a good idea because in retaliation CreepYT helps P0lyR3zzzz trap Quilver in the prison.")
+  print("Vee & Bee join the active members list.")
   
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
@@ -216,6 +217,8 @@ if (ifHeartCountS9 == 'yes'):
   print('XRayz: 13 Hearts')
   print('aXc3L: 10 Hearts')
   print('UnScr3pted: 16 Hearts')
+  print('Bee: 10 Hearts')
+  print('Vee: 10 Hearts')
 
 ifStrengthCountS9 = input("Do you want to see everyone's strength count in S9?(yes/no): ")
 
@@ -238,6 +241,8 @@ if (ifStrengthCountS9 == 'yes'):
   print('XRayz: 5 + 2 Strength')
   print('aXc3L: 3 Strength')
   print('UnScr3pted: 2 Strength')
+  print('Bee: 3 Strength')
+  print('Vee: 3 Strength')
 
 ifTeamsS9 = input("Do you want to see the teams on IMMRTLLS9?(yes/no): ")
 
@@ -252,3 +257,4 @@ if (ifTeamsS9 == 'yes'):
   print('DA: XRayz, Allies: P0lyR3zzzz0lution (Hidden)-QEF-TOSC-Bac3e, Enemies: P0lyR3zzzz0lution (Fake)')
   print('aXc3L; Allies: P0lyR3zzzz0lution, Enemies: XRayz (Fake)-DA')
   print('UnScr1pted; Allies: XRayz-P0lyR3zzzz0lution, Enemies: DA')
+  print('Bubblies: Bee-Vee, Allies: None, Enemies: None')
