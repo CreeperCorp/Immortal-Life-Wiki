@@ -206,6 +206,7 @@ if (ifLive == 'yes'):
   print("CreepSplotion: idk what to do | 11/9/25 | 10 hours")
   print("Joc3e: REVIVED | 11/9/25 | 13 hours")
   print("Batchi: FINXLLY REVIVED | 11/9/25 | 17 hours")
+  print("XRayz: IDK | 11/10/25 | 10 hours")
 
 ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
 
