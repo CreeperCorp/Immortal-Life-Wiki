@@ -20,7 +20,8 @@ if (ifLore == 'yes'):
   print("XRayz joins and grinds gear for the DA, Quilver tries to obtain the dragon egg from CreepSplotion, and Finxlly crafts up to 9 hearts (the max you can craft up to).")
   print("While the rest of ECRA are gone for the week, P0ly builds a prison next to spawn, planning to trap QEC with it.")
   print("DA announce they are going to start another war on sunday because of the prison. Which wasn't a good idea because in retaliation CreepYT helps P0lyR3zzzz trap Quilver in the prison.")
-  print("Vee & Bee join the active members list. DA start a war against P0lyR3zzzz because of the prison. aXc3L, Reap, & Finxlly die in during this war (The hearts go to CreepYT). This war is very short however as it gets cut off by an attempt to void trap CreepSplotion by Finxlly. CreepSplotion escapes the trap however, but has mining fatigue so he's stuck in the backup obsidian box. He's trapped there unless he wants to mine for 42 years, this also means the dragon egg is trapped. Joc3e gets revived by Finxlly, and Batchi too after he carfst the hearts (-4 hearts since the other 4 were crafted). Joc3e crafts up to 9, and Batchi up to 5. CreepSplotion logs off due to being trapped, his only offer out being to give up the dragon egg to revive Ennard. R3zz0 offers to let Quilver free if Finxlly lets CreepSplotion free, which Finxlly doesn't agree to. Vee kills Batchi after randomly finding her for the heart.")
+  print("Vee & Bee join the active members list. DA start a war against P0lyR3zzzz because of the prison. aXc3L, Reap, & Finxlly die in during this war (The hearts go to CreepYT). This war is very short however as it gets cut off by an attempt to void trap CreepSplotion by Finxlly. CreepSplotion escapes the trap however, but has mining fatigue so he's stuck in the backup obsidian box. He's trapped there unless he wants to mine for 42 years, this also means the dragon egg is trapped. Joc3e gets revived by Finxlly, and Batchi too after he crafts the hearts (-4 hearts since the other 4 were crafted). Joc3e crafts up to 9, and Batchi up to 5. CreepSplotion logs off due to being trapped, his only offer out being to give up the dragon egg to revive Ennard. R3zz0 offers to let Quilver free if Finxlly lets CreepSplotion free, which Finxlly doesn't agree to. Vee kills Batchi after randomly finding her for the heart.")
+  print("Giggles frees CreepSplotion from the obsidian box by nuking the elder guardian with his OBSC. This initiates a fight against Finxlly, who quickly dies from CreepSplotion's mace. Giggles then asks for an IOU, and to be nice CreepSplotion accepts even though he could just leave.")
   
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
@@ -87,6 +88,10 @@ if (ifVideos == 'yes'):
   print("Quilver: *Getting Trapped On Immortal Life*")
   print("ReapSplotion: *The Second War*")
   print("XRayz: Starting Another War")
+  print("Finxlly: Trapping Minecraft's Greatest Player")
+  print("CreepSplotion: Losing Braincells During Season 9's Second War")
+  print("R3zz0: *History*")
+  print("Giggles: *How I Saved CreepSplotion From Minecraft Best Trap*")
 
 ifLive = input('Do you want to see Season 9 live streams in chronological order?(yes/no): ')
 
@@ -207,11 +212,17 @@ if (ifLive == 'yes'):
   print("Joc3e: REVIVED | 11/9/25 | 13 hours")
   print("Batchi: FINXLLY REVIVED | 11/9/25 | 17 hours")
   print("XRayz: IDK | 11/10/25 | 10 hours")
+  print("CreepSplotion: Sitting In An Obsidian Box With Mining Fatigue | 11/10/25 | 8 hours")
+  print("CreepSplotion: Mining 'Bedrock' Stream | 11/10/25 | 10 hours")
+  print("Finxlly: Checking On Creep | 11/10/25 | 5 hours")
+  print("CreepYT: Insanity | 11/10/25 | 7 hours")
+  print("Quilver: I Might Join QuantumSMP If I Stay Here Any Longer | 11/10/25 | 2 hours")
+  print("Giggles: Freeing Somebody | 11/10/25 | 4 hours")
 
 ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
 
 if (ifHeartCountS9 == 'yes'):
-  print('CreepSplotion: 2 + 45 Hearts')
+  print('CreepSplotion: 2 + 46 Hearts')
   print('ReapSplotion: 10 Hearts')
   print('Ennard: 0 + 0 Hearts (BANNED)')
   print('Division: 13 Hearts')
@@ -219,7 +230,7 @@ if (ifHeartCountS9 == 'yes'):
   print('CreepYT: 20 + 1 Hearts')
   print('Dash: 8 Hearts')
   print('XxFun: 10 Hearts')
-  print('Finxlly: 4 Hearts')
+  print('Finxlly: 3 Hearts')
   print('PolyPeptide: 20 + 5 Hearts')
   print('Quilver: 7 Hearts')
   print('Batchi: 5 Hearts')
@@ -260,7 +271,7 @@ ifTeamsS9 = input("Do you want to see the teams on IMMRTLLS9?(yes/no): ")
 
 if (ifTeamsS9 == 'yes'):
   print('Bloodshots: CreepSplotion-Dash-XxFun, Allies: ReapSplotion-P0lyR3zzzz0lution, Enemies: CreepYT')
-  print('TOSC (The Orbital Strike Cannon): Giggles-Division, Allies: PolyPePtide, Enemies: CreepYT & QEF')
+  print('TOSC (The Orbital Strike Cannon): Giggles (CreepSplotion IOU)-Division, Allies: PolyPePtide, Enemies: CreepYT & QEF')
   print('CreepYT; Allies: PolyPePtide, Enemies: BloodShots-TOSC-QEF-XRayz (Fake)-DA')
   print('QEF: Ennard (DEATH BANNED)-Finxlly-Quilver, Allies: ReapSplotion-Bac3e-DA, Enemies: TOSC-P0lyR3zzolution-XRayz-CreepSplotion')
   print('P0lyR3zzzz0lution: P0ly-R3zz-R3zz0, Allies: TOSC-CreepYT-XRayz (Hidden), Enemies: Finxlly-Batchi-Quilver-Joc3e-DA-XRayz (Fake)')
