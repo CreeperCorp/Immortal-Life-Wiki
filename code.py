@@ -22,7 +22,7 @@ if (ifLore == 'yes'):
   print("DA announce they are going to start another war on sunday because of the prison. Which wasn't a good idea because in retaliation CreepYT helps P0lyR3zzzz trap Quilver in the prison.")
   print("Vee & Bee join the active members list. DA start a war against P0lyR3zzzz because of the prison. aXc3L, Reap, & Finxlly die in during this war (The hearts go to CreepYT). This war is very short however as it gets cut off by an attempt to void trap CreepSplotion by Finxlly. CreepSplotion escapes the trap however, but has mining fatigue so he's stuck in the backup obsidian box. He's trapped there unless he wants to mine for 42 years, this also means the dragon egg is trapped. Joc3e gets revived by Finxlly, and Batchi too after he crafts the hearts (-4 hearts since the other 4 were crafted). Joc3e crafts up to 9, and Batchi up to 5. CreepSplotion logs off due to being trapped, his only offer out being to give up the dragon egg to revive Ennard. R3zz0 offers to let Quilver free if Finxlly lets CreepSplotion free, which Finxlly doesn't agree to. Vee kills Batchi after randomly finding her for the heart.")
   print("Giggles frees CreepSplotion from the obsidian box by nuking the elder guardian with his OBSC. This initiates a fight against Finxlly, who quickly dies from CreepSplotion's mace. Giggles then asks for an IOU, and to be nice CreepSplotion accepts even though he could just leave.")
-  print("ClockWise joins the active members list.")
+  print("ClockWise joins the active members list. Finxlly helps Quilver escape prison and as a result P0ly kills Quilver.")
   
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
@@ -92,7 +92,8 @@ if (ifVideos == 'yes'):
   print("Finxlly: Trapping Minecraft's Greatest Player")
   print("CreepSplotion: Losing Braincells During Season 9's Second War")
   print("R3zz0: *History*")
-  print("Giggles: *How I Saved CreepSplotion From Minecraft Best Trap*")
+  print("Giggles: *How I Saved CreepSplotion From Minecraft's Best Trap*")
+  print("Finxlly: *How I Saved Quilver From Minecraft's Worst Trap*")
 
 ifLive = input('Do you want to see Season 9 live streams in chronological order?(yes/no): ')
 
@@ -220,6 +221,12 @@ if (ifLive == 'yes'):
   print("Quilver: I Might Join QuantumSMP If I Stay Here Any Longer | 11/10/25 | 2 hours")
   print("Giggles: Freeing Somebody | 11/10/25 | 4 hours")
   print("ClockWise: First Day On Immortal Life | 11/10/25 | 8 hours")
+  print("ClockWise: Fun | 11/11/25 | 10 hours")
+  print("Bee: 2nd Stream | 11/11/25 | 8 hours")
+  print("Vee: 2nd Stream | 11/11/25 | 12 hours")
+  print("Quilver: QuantumSMP? | 11/11/25 | 3 hours")
+  print("Finxlly: Finxlly Freeing Quilver | 11/11/25 | 4 hours")
+  print("P0ly: Killing Quilver | 11/11/25 | 6 hours")
 
 ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
 
@@ -233,8 +240,8 @@ if (ifHeartCountS9 == 'yes'):
   print('Dash: 8 Hearts')
   print('XxFun: 10 Hearts')
   print('Finxlly: 3 Hearts')
-  print('PolyPeptide: 20 + 5 Hearts')
-  print('Quilver: 7 Hearts')
+  print('PolyPeptide: 20 + 6 Hearts')
+  print('Quilver: 6 Hearts')
   print('Batchi: 5 Hearts')
   print('Joc3e: 9 Hearts')
   print('R3zzignation: 20 + 0 Hearts')
