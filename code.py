@@ -22,7 +22,7 @@ if (ifLore == 'yes'):
   print("DA announce they are going to start another war on sunday because of the prison. Which wasn't a good idea because in retaliation CreepYT helps P0lyR3zzzz trap Quilver in the prison.")
   print("Vee & Bee join the active members list. DA start a war against P0lyR3zzzz because of the prison. aXc3L, Reap, & Finxlly die in during this war (The hearts go to CreepYT). This war is very short however as it gets cut off by an attempt to void trap CreepSplotion by Finxlly. CreepSplotion escapes the trap however, but has mining fatigue so he's stuck in the backup obsidian box. He's trapped there unless he wants to mine for 42 years, this also means the dragon egg is trapped. Joc3e gets revived by Finxlly, and Batchi too after he crafts the hearts (-4 hearts since the other 4 were crafted). Joc3e crafts up to 9, and Batchi up to 5. CreepSplotion logs off due to being trapped, his only offer out being to give up the dragon egg to revive Ennard. R3zz0 offers to let Quilver free if Finxlly lets CreepSplotion free, which Finxlly doesn't agree to. Vee kills Batchi after randomly finding her for the heart.")
   print("Giggles frees CreepSplotion from the obsidian box by nuking the elder guardian with his OBSC. This initiates a fight against Finxlly, who quickly dies from CreepSplotion's mace. Giggles then asks for an IOU, and to be nice CreepSplotion accepts even though he could just leave.")
-  print("ClockWise joins the active members list. Finxlly helps Quilver escape prison and as a result P0ly kills Quilver.")
+  print("ClockWise joins the active members list. Finxlly helps Quilver escape prison and as a result P0ly kills Quilver. ClockWise gears up and eventually kills Batchi after finding her in a random area. ClockWise then gets jumped by the Bubblies, but survives as he is cracked at pvp. He is able to kill Vee before they both run away.")
   
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
@@ -243,7 +243,7 @@ if (ifHeartCountS9 == 'yes'):
   print('Finxlly: 3 Hearts')
   print('PolyPeptide: 20 + 6 Hearts')
   print('Quilver: 6 Hearts')
-  print('Batchi: 5 Hearts')
+  print('Batchi: 4 Hearts')
   print('Joc3e: 9 Hearts')
   print('R3zzignation: 20 + 0 Hearts')
   print('R3zz0lution: 20 + 1 Hearts')
@@ -251,8 +251,8 @@ if (ifHeartCountS9 == 'yes'):
   print('aXc3L: 9 Hearts')
   print('UnScr3pted: 16 Hearts')
   print('Bee: 10 Hearts')
-  print('Vee: 11 Hearts')
-  print('ClockWise: 10 hearts')
+  print('Vee: 10 Hearts')
+  print('ClockWise: 12 hearts')
 
 ifStrengthCountS9 = input("Do you want to see everyone's strength count in S9?(yes/no): ")
 
@@ -276,8 +276,8 @@ if (ifStrengthCountS9 == 'yes'):
   print('aXc3L: 3 Strength')
   print('UnScr3pted: 2 Strength')
   print('Bee: 3 Strength')
-  print('Vee: 4 Strength')
-  print('ClockWise: 3 Strength')
+  print('Vee: 3 Strength')
+  print('ClockWise: 4 Strength')
 
 ifTeamsS9 = input("Do you want to see the teams on IMMRTLLS9?(yes/no): ")
 
