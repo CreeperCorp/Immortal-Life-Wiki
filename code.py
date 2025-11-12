@@ -3,7 +3,7 @@ print('Only Season 9 is included right now')
 rulesS9 = input('Do you want to see the Season 9 rules?(yes/no): ')
 
 if (rulesS9 == 'yes'):
-  print("You can craft up to 9 hearts, and 2 strength. Other than this, no hacking or breaking IOU's.")
+  print("You can craft up to 9 hearts, and 2 strength. Other than this, no hacking or breaking IOU's. Beacon's are normal if you don't have extra hearts. If you have 5 or less extra hearts it takes a netherite block, if you have 10 or less it takes a netherite beacon, if you have 15 to 20 it takes 4 netherite beacons, and if you had more than 20 extra hearts it takes the dragon egg (Extra hearts count within 1 week of death ban). The dragon egg respawns the dragon and destroys all ender eyes in portals when used or disintegrated.")
 
 ifLore = input('Do you want to see Season 9 lore?(yes/no): ')
 
