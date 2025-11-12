@@ -227,6 +227,7 @@ if (ifLive == 'yes'):
   print("Quilver: QuantumSMP? | 11/11/25 | 3 hours")
   print("Finxlly: Finxlly Freeing Quilver | 11/11/25 | 4 hours")
   print("P0ly: Killing Quilver | 11/11/25 | 6 hours")
+  print("Division: YIPPE | 11/11/25 | 7 hours")
 
 ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
 
