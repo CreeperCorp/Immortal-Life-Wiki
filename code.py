@@ -228,6 +228,10 @@ if (ifLive == 'yes'):
   print("Finxlly: Finxlly Freeing Quilver | 11/11/25 | 4 hours")
   print("P0ly: Killing Quilver | 11/11/25 | 6 hours")
   print("Division: YIPPE | 11/11/25 | 7 hours")
+  print("Finxlly: Dragon egg? | 11/12/25 | 5 hours")
+  print("Quilver: Out Of Prison | 11/12/25 | 7 hours")
+  print("ClockWise: Doing Stuff | 11/12/25 | 12 hours")
+  print("CreepYT: e | 11/12/25 | 18 hours")
 
 ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
 
