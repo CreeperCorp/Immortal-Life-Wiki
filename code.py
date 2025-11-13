@@ -95,6 +95,8 @@ if (ifVideos == 'yes'):
   print("R3zz0: *History*")
   print("Giggles: *How I Saved CreepSplotion From Minecraft's Best Trap*")
   print("Finxlly: *How I Saved Quilver From Minecraft's Worst Trap*")
+  print("R3zz: *How To Monopolize Hearts*")
+  print("Ennard: *Creating A Player That Doesn't Exist*")
 
 ifLive = input('Do you want to see Season 9 live streams in chronological order?(yes/no): ')
 
