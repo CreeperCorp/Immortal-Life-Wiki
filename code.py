@@ -24,6 +24,7 @@ if (ifLore == 'yes'):
   print("Giggles frees CreepSplotion from the obsidian box by nuking the elder guardian with his OBSC. This initiates a fight against Finxlly, who quickly dies from CreepSplotion's mace. Giggles then asks for an IOU, and to be nice CreepSplotion accepts even though he could just leave.")
   print("ClockWise joins the active members list. Finxlly helps Quilver escape prison and as a result P0ly kills Quilver. ClockWise gears up and eventually kills Batchi after finding her in a random area. ClockWise then gets jumped by the Bubblies, but survives as he is cracked at pvp. He is able to kill Vee before they both run away. ClockWise then comes across P0ly and joins their team against the DA. The second war was deemed The 20 Minute War, and a third war is assigned by DA on Friday. CreepSplotion agrees that if P0lyR3zzzz loses this next war, he will give the dragon egg to QEF, which unfortunately the war is scripted for them to lose without him knowing (If he does know he doesn't show it and clearly doesn't care). P0ly gives 6 of his extra hearts to ClockWise.")
   print("Joc3e kills aXc3L who went afk in a farm. Which leads to P0ly pin pointing her location and macing her. P0ly gives aXc3L 5 of his extra strength.")
+  print("Ennard attempted to create a new account to get around his unban, known as Kelium. This player lasted for 10 hours on the server, but its impressive it got in and was able to obtain op. Quilver crafts up to 9 hearts and 2 strength.")
   
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
@@ -237,6 +238,7 @@ if (ifLive == 'yes'):
   print("CreepYT: e | 11/12/25 | 18 hours")
   print("aXc3L: Cool | 11/12/25 | 13 hours")
   print("Joc3e: 20 Hearts Maybe | 11/12/25 | 18 hours")
+  print("Quilver: Locking In | 11/13/25 | 10 hours")
 
 ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
 
@@ -251,7 +253,7 @@ if (ifHeartCountS9 == 'yes'):
   print('XxFun: 10 Hearts')
   print('Finxlly: 3 Hearts')
   print('PolyPeptide: 20 + 1 Hearts')
-  print('Quilver: 6 Hearts')
+  print('Quilver: 9 Hearts')
   print('Batchi: 4 Hearts')
   print('Joc3e: 9 Hearts')
   print('R3zzignation: 20 + 0 Hearts')
@@ -276,7 +278,7 @@ if (ifStrengthCountS9 == 'yes'):
   print('XxFun: 3 Strength')
   print('Finxlly: 1 Strength')
   print('PolyPeptide: 5 + 9 Strength')
-  print('Quilver: 1 + 0 Strength')
+  print('Quilver: 2 + 0 Strength')
   print('Batchi: 1 Strength')
   print('Joc3e: 1 Strength')
   print('R3zzignation: 5 + 2 Strength')
