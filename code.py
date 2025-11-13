@@ -239,6 +239,7 @@ if (ifLive == 'yes'):
   print("aXc3L: Cool | 11/12/25 | 13 hours")
   print("Joc3e: 20 Hearts Maybe | 11/12/25 | 18 hours")
   print("Quilver: Locking In | 11/13/25 | 10 hours")
+  print("Finxlly: Ok | 11/13/25 | 12 hours")
 
 ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
 
