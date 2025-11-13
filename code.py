@@ -25,6 +25,7 @@ if (ifLore == 'yes'):
   print("ClockWise joins the active members list. Finxlly helps Quilver escape prison and as a result P0ly kills Quilver. ClockWise gears up and eventually kills Batchi after finding her in a random area. ClockWise then gets jumped by the Bubblies, but survives as he is cracked at pvp. He is able to kill Vee before they both run away. ClockWise then comes across P0ly and joins their team against the DA. The second war was deemed The 20 Minute War, and a third war is assigned by DA on Friday. CreepSplotion agrees that if P0lyR3zzzz loses this next war, he will give the dragon egg to QEF, which unfortunately the war is scripted for them to lose without him knowing (If he does know he doesn't show it and clearly doesn't care). P0ly gives 6 of his extra hearts to ClockWise.")
   print("Joc3e kills aXc3L who went afk in a farm. Which leads to P0ly pin pointing her location and macing her. P0ly gives aXc3L 5 of his extra strength.")
   print("Ennard attempted to create a new account to get around his unban, known as Kelium. This player lasted for 10 hours on the server, but its impressive it got in and was able to obtain op. Quilver crafts up to 9 hearts and 2 strength.")
+  print("Velocity joins the active members list.")
   
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
