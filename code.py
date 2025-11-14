@@ -25,7 +25,7 @@ if (ifLore == 'yes'):
   print("ClockWise joins the active members list. Finxlly helps Quilver escape prison and as a result P0ly kills Quilver. ClockWise gears up and eventually kills Batchi after finding her in a random area. ClockWise then gets jumped by the Bubblies, but survives as he is cracked at pvp. He is able to kill Vee before they both run away. ClockWise then comes across P0ly and joins their team against the DA. The second war was deemed The 20 Minute War, and a third war is assigned by DA on Friday. CreepSplotion agrees that if P0lyR3zzzz loses this next war, he will give the dragon egg to QEF, which unfortunately the war is scripted for them to lose without him knowing (If he does know he doesn't show it and clearly doesn't care). P0ly gives 6 of his extra hearts to ClockWise.")
   print("Joc3e kills aXc3L who went afk in a farm. Which leads to P0ly pin pointing her location and macing her. P0ly gives aXc3L 5 of his extra strength.")
   print("Ennard attempted to create a new account to get around his unban, known as Kelium. This player lasted for 10 hours on the server, but its impressive it got in and was able to obtain op. Quilver crafts up to 9 hearts and 2 strength.")
-  print("Velocity joins the active members list. Finxlly crafts up to 9 hearts and 2 strength.")
+  print("Velocity joins the active members list. Finxlly crafts up to 9 hearts and 2 strength. ClockWise clocks 'em up (He kills Bee, Vee, Joc3e, Batchi, Dash, XxFun, & Quilver (+7 hearts, +5 strength)).")
   
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
@@ -241,6 +241,9 @@ if (ifLive == 'yes'):
   print("Joc3e: 20 Hearts Maybe | 11/12/25 | 18 hours")
   print("Quilver: Locking In | 11/13/25 | 10 hours")
   print("Finxlly: Ok | 11/13/25 | 12 hours")
+  print("Vee: Vee Stuff | 11/13/25 | 10 hours")
+  print("Bee: Twinsies | 11/13/25 | 9 hours")
+  print("ClockWise: Clocking 'Em Up | 11/13/25 | 10 hours")
 
 ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
 
@@ -265,7 +268,7 @@ if (ifHeartCountS9 == 'yes'):
   print('UnScr3pted: 16 Hearts')
   print('Bee: 10 Hearts')
   print('Vee: 10 Hearts')
-  print('ClockWise: 18 hearts')
+  print('ClockWise: 20 + 5 hearts')
 
 ifStrengthCountS9 = input("Do you want to see everyone's strength count in S9?(yes/no): ")
 
@@ -290,7 +293,7 @@ if (ifStrengthCountS9 == 'yes'):
   print('UnScr3pted: 2 Strength')
   print('Bee: 3 Strength')
   print('Vee: 3 Strength')
-  print('ClockWise: 4 Strength')
+  print('ClockWise: 5 + 4 Strength')
 
 ifTeamsS9 = input("Do you want to see the teams on IMMRTLLS9?(yes/no): ")
 
