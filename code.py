@@ -244,6 +244,7 @@ if (ifLive == 'yes'):
   print("Vee: Vee Stuff | 11/13/25 | 10 hours")
   print("Bee: Twinsies | 11/13/25 | 9 hours")
   print("ClockWise: Clocking 'Em Up | 11/13/25 | 10 hours")
+  print("Velocity: Immortal Life | 11/13/25 | 10 hours")
 
 ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
 
@@ -268,7 +269,8 @@ if (ifHeartCountS9 == 'yes'):
   print('UnScr3pted: 16 Hearts')
   print('Bee: 10 Hearts')
   print('Vee: 10 Hearts')
-  print('ClockWise: 20 + 5 hearts')
+  print('ClockWise: 20 + 5 Hearts')
+  print('Velocity: 10 Hearts')
 
 ifStrengthCountS9 = input("Do you want to see everyone's strength count in S9?(yes/no): ")
 
@@ -294,6 +296,7 @@ if (ifStrengthCountS9 == 'yes'):
   print('Bee: 3 Strength')
   print('Vee: 3 Strength')
   print('ClockWise: 5 + 4 Strength')
+  print('Velocity: 3 Strength')
 
 ifTeamsS9 = input("Do you want to see the teams on IMMRTLLS9?(yes/no): ")
 
@@ -310,3 +313,4 @@ if (ifTeamsS9 == 'yes'):
   print('UnScr1pted; Allies: XRayz-P0lyR3zzzz0lution, Enemies: DA')
   print('Bubblies: Bee-Vee, Allies: None, Enemies: ClockWise')
   print('ClockWise; Allies: P0lyR3zzzz0lution, Enemies: Bubblies')
+  print('Velocity; Allies: None, Enemies: None')
