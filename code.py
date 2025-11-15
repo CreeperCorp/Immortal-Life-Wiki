@@ -26,7 +26,7 @@ if (ifLore == 'yes'):
   print("Joc3e kills aXc3L who went afk in a farm. Which leads to P0ly pin pointing her location and macing her. P0ly gives aXc3L 5 of his extra strength.")
   print("Ennard attempted to create a new account to get around his unban, known as Kelium. This player lasted for 10 hours on the server, but its impressive it got in and was able to obtain op. Quilver crafts up to 9 hearts and 2 strength.")
   print("Velocity joins the active members list. Finxlly crafts up to 9 hearts and 2 strength. ClockWise clocks 'em up (He kills Bee, Vee, Joc3e, Batchi, Dash, XxFun, & Quilver (+7 hearts, +5 strength)). ClockWise and Velocity team up to create Clocity. ClockWise gives Velocity 2 of his extra strength and his 5 extra hearts.")
-  print("The third war begins with CreepSplotion killing XRayz to initiate the war. P0ly then 2v1s Finxlly & Quilver which he is scripted to lose by getting drained. R3zz0 then kills Batchi, Joc3e, Bee, Vee, & UnScr1pted because he hasn't revealed he's teamed with P0lyR3zzzz. P0ly then loses his 2v1 as his armor breaks (He was using a backup set with only prot 2 and no unbreaking or mending). R3zz0 forgets he's meant to die to another player to make it seem less suspicious and dies to fall damage (All his stuff despawn). Velocity and ClockWise are then told about the scripted war, and decide that their role should be to betray P0lyR3zzzz and create a new faction against both sides (This would be done later in the rivalry however). ClockWise then kills UnScr1pted & XRayz to make this loss seem more believable. R3zz then dies to Quilver unpurpose, and R3zz0 comes back to die again (His stuff despawns again -_-). This is when P0lyR3zzzz retreats and DA win the war. CreepSplotion then goes to give Finxlly the egg when Giggles uses his IOU, and forces CreepSplotion to give him the egg instead. CreepSplotion gives Giggles the egg, leaving Finxlly outraged because Giggles is on P0lyR3zzzz along with CreepSplotion.")
+  print("The third war begins with CreepSplotion killing XRayz to initiate the war. P0ly then 2v1s Finxlly & Quilver which he is scripted to lose by getting drained. R3zz0 then kills Batchi, Joc3e, Bee, Vee, & UnScr1pted because he hasn't revealed he's teamed with P0lyR3zzzz. P0ly then loses his 2v1 as his armor breaks (He was using a backup set with only prot 2 and no unbreaking or mending). R3zz0 forgets he's meant to die to another player to make it seem less suspicious and dies to fall damage (All his stuff despawn). Velocity and ClockWise are then told about the scripted war, and decide that their role should be to betray P0lyR3zzzz and create a new faction against both sides (This would be done later in the rivalry however). ClockWise then kills UnScr1pted & XRayz to make this loss seem more believable. R3zz then dies to Quilver unpurpose, and R3zz0 comes back to die again (His stuff despawns again -_-). This is when P0lyR3zzzz retreats and DA win the war. CreepSplotion then goes to give Finxlly the egg when Giggles uses his IOU, and forces CreepSplotion to give him the egg instead. CreepSplotion gives Giggles the egg, leaving Finxlly outraged because Giggles is on P0lyR3zzzz along with CreepSplotion. Ennard doesn't get revived. This is when CreepYT posts a video (Part Of Scripted Lore) where he states that the war isn't over and that if he doesn't get 50 hearts and 50 strength then he will POBS spawn into oblivion. Division and Giggles agreed to this, and literally nobody on P0lyR3zzzz cares about spawn. So this is only a win for P0lyR3zzzz. DA start to panic, other than XRayz. They devise a plan to find CreepYT's pobs, but they don't know that the POBS has a completely different design than the OBS and therefore CreepYT has an OBS and a POBS in the overworld. Eventually after 30 minutes of searching, they find test fires but of the POBS. But this was because CreepYT was leading them astray, he test fired near his OBS, so if DA was trying to disarm the machine they would disarm the OBS and think they've won. If they weren't then they would give the 50 hearts and strength. This plan worked perfectly as Quilver destroyed the OBS, thinking it was the POBS. This is when the OBS fires a failsafe on top of itself, killing Quilver but not the others who were there.")
   
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
@@ -100,6 +100,14 @@ if (ifVideos == 'yes'):
   print("Finxlly: *How I Saved Quilver From Minecraft's Worst Trap*")
   print("R3zz: *How To Monopolize Hearts*")
   print("Ennard: *Creating A Player That Doesn't Exist*")
+  print("R3zz0: *Losing A War For The Lore*")
+  print("R3zz: *We Lost*")
+  print("XRayz: Winning Our First War")
+  print("Finxlly: Beating P0lyR3zzzz?")
+  print("Quilver: Breaking A Promise To Not Break An IOU")
+  print("Bee: Winning Despite Dying Multiple Times")
+  print("Vee: We Won")
+  print("CreepYT: The War Isn't Over")
 
 ifLive = input('Do you want to see Season 9 live streams in chronological order?(yes/no): ')
 
@@ -279,7 +287,7 @@ if (ifHeartCountS9 == 'yes'):
   print('XxFun: 10 Hearts')
   print('Finxlly: 10 Hearts')
   print('PolyPeptide: 20 + 0 Hearts')
-  print('Quilver: 10 Hearts')
+  print('Quilver: 9 Hearts')
   print('Batchi: 3 Hearts')
   print('Joc3e: 8 Hearts')
   print('R3zzignation: 20 + 0 Hearts')
@@ -305,7 +313,7 @@ if (ifStrengthCountS9 == 'yes'):
   print('XxFun: 3 Strength')
   print('Finxlly: 2 Strength')
   print('PolyPeptide: 5 + 8 Strength')
-  print('Quilver: 4 + 0 Strength')
+  print('Quilver: 3 + 0 Strength')
   print('Batchi: 1 Strength')
   print('Joc3e: 1 Strength')
   print('R3zzignation: 5 + 1 Strength')
