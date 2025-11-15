@@ -108,6 +108,9 @@ if (ifVideos == 'yes'):
   print("Bee: Winning Despite Dying Multiple Times")
   print("Vee: We Won")
   print("CreepYT: The War Isn't Over")
+  print("CreepSplotion: CreepYT's Master Plan")
+  print("XRayz: The Monopoly Is Rising")
+  print("Finxlly: We've Been Duped")
 
 ifLive = input('Do you want to see Season 9 live streams in chronological order?(yes/no): ')
 
