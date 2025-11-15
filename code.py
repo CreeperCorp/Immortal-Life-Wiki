@@ -26,6 +26,7 @@ if (ifLore == 'yes'):
   print("Joc3e kills aXc3L who went afk in a farm. Which leads to P0ly pin pointing her location and macing her. P0ly gives aXc3L 5 of his extra strength.")
   print("Ennard attempted to create a new account to get around his unban, known as Kelium. This player lasted for 10 hours on the server, but its impressive it got in and was able to obtain op. Quilver crafts up to 9 hearts and 2 strength.")
   print("Velocity joins the active members list. Finxlly crafts up to 9 hearts and 2 strength. ClockWise clocks 'em up (He kills Bee, Vee, Joc3e, Batchi, Dash, XxFun, & Quilver (+7 hearts, +5 strength)). ClockWise and Velocity team up to create Clocity. ClockWise gives Velocity 2 of his extra strength and his 5 extra hearts.")
+  print("The third war begins with CreepSplotion killing XRayz to initiate the war.")
   
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
@@ -245,6 +246,25 @@ if (ifLive == 'yes'):
   print("Bee: Twinsies | 11/13/25 | 9 hours")
   print("ClockWise: Clocking 'Em Up | 11/13/25 | 10 hours")
   print("Velocity: Immortal Life | 11/13/25 | 10 hours")
+  print("XRayz: Immortality? | 11/14/25 | 12 hours")
+  print("P0ly: War | 11/14/25 | 9 hours")
+  print("Finxlly: HI | 11/14/25 | 9 hours")
+  print("R3zz0: Almost Friday The 13th | 11/14/25 | 20 hours")
+  print("R3zz: Cool | 11/14/25 | 18 hours")
+  print("Velocity: ClockWise | 11/14/25 | 24 hours")
+  print("ClockWise: Velocity | 11/14/25 | 24 hours")
+  print("Bee: Will Ennard Get Unbanned? | 11/14/25 | 10 hours")
+  print("Vee: I | 11/14/25 | 10 hours")
+  print("CreepSplotion: Dragon Egg? | 11/14/25 | 10 hours")
+  print("Division: 8 | 11/14/25 | 8 hours")
+  print("Giggles: OBS | 11/14/25 | 10 hours")
+  print("aXc3L: Live Again | 11/14/25 | 10 hours")
+  print("UnScr1pted: An UnScr1pted War | 11/14/25 | 12 hours")
+  print("Joc3e: Name | 11/14/25 | 18 hours")
+  print("Batchi: We Hate P0lyR3zzzz | 11/14/25 | 19 hours")
+  print("Quilver: Quantative Relations | 11/14/25 | 20 hours")
+  print("CreepYT: Mass Destruction | 11/14/25 | 24 hours")
+  print("ReapSplotion: War Is Fun Sometimes | 11/14/25 | 5 hours")
 
 ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
 
