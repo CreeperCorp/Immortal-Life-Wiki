@@ -117,6 +117,7 @@ if (ifVideos == 'yes'):
   print("CreepSplotion: CreepYT's Master Plan")
   print("XRayz: The Monopoly Is Rising")
   print("Finxlly: We've Been Duped")
+  print("Giggles: The Egg Is Mine")
 
 ifLive = input('Do you want to see Season 9 live streams in chronological order?(yes/no): ')
 
@@ -282,6 +283,9 @@ if (ifLive == 'yes'):
   print("Quilver: Quantative Relations | 11/14/25 | 20 hours")
   print("CreepYT: Mass Destruction | 11/14/25 | 24 hours")
   print("ReapSplotion: War Is Fun Sometimes | 11/14/25 | 5 hours")
+  print("Giggles: I Have The Dragon Egg | 11/15/25 | 19 hours")
+  print("CreepSplotion: I Gave Away The Egg | 11/15/25 | 20 hours")
+  print("P0ly: Monop0ly | 11/15/25 | 20 hours")
 
 ifHeartCountS9 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
 
