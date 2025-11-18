@@ -38,6 +38,7 @@ if (ifLore == 'yes'):
   print("The third war begins with CreepSplotion killing XRayz to initiate the war. P0ly then 2v1s Finxlly & Quilver which he is scripted to lose by getting drained. R3zz0 then kills Batchi, Joc3e, Bee, Vee, & UnScr1pted because he hasn't revealed he's teamed with P0lyR3zzzz. P0ly then loses his 2v1 as his armor breaks (He was using a backup set with only prot 2 and no unbreaking or mending). R3zz0 forgets he's meant to die to another player to make it seem less suspicious and dies to fall damage (All his stuff despawn). Velocity and ClockWise are then told about the scripted war, and decide that their role should be to betray P0lyR3zzzz and create a new faction against both sides (This would be done later in the rivalry however). ClockWise then kills UnScr1pted & XRayz to make this loss seem more believable. R3zz then dies to Quilver unpurpose, and R3zz0 comes back to die again (His stuff despawns again -_-). This is when P0lyR3zzzz retreats and DA win the war. CreepSplotion then goes to give Finxlly the egg when Giggles uses his IOU, and forces CreepSplotion to give him the egg instead. CreepSplotion gives Giggles the egg, leaving Finxlly outraged because Giggles is on P0lyR3zzzz along with CreepSplotion. Ennard doesn't get revived. This is when CreepYT posts a video (Part Of Scripted Lore) where he states that the war isn't over and that if he doesn't get 50 hearts and 50 strength then he will POBS spawn into oblivion. Division and Giggles agreed to this, and literally nobody on P0lyR3zzzz cares about spawn. So this is only a win for P0lyR3zzzz. DA start to panic, other than XRayz. They devise a plan to find CreepYT's pobs, but they don't know that the POBS has a completely different design than the OBS and therefore CreepYT has an OBS and a POBS in the overworld. Eventually after 30 minutes of searching, they find test fires but of the POBS. But this was because CreepYT was leading them astray, he test fired near his OBS, so if DA was trying to disarm the machine they would disarm the OBS and think they've won. If they weren't then they would give the 50 hearts and strength. This plan worked perfectly as Quilver destroyed the OBS, thinking it was the POBS. This is when the OBS fires a failsafe on top of itself, killing Quilver but not the others who were there. Realizing this, CreepYT announces to the discord server that DA found not his POBS but his OBS. DA then try to look for the actual POBS but CreepYT already sent 20 stabs, 5 sphere shots, 5 circle shots, and 10 rings to spawn. Spawn was now completely destroyed, but DA didn't know yet because the Spawn chunks weren't loaded yet. XRayz purposely sent Finxlly, Bee, and Batchi to spawn and they all die from the now loaded explosion (All their items gets blown up). CreepYT however still demands 50 hearts and 50 strength, knowing full well DA doesn't have 50 strength and can't craft up to 50 strength due to the rules. XRayz then convinces the team to give the hearts before something else happens. Finxlly gives 8 hearts, Quilver gives 8 hearts, Joc3e gives 6 hearts, Bee gives 5 hearts, and Vee gives 6 hearts. XRayz lies and says their total is 43 after all the members gave their hearts so they need to craft 7 more. They then craft 7 more to create a total of 50 from what DA knows, but its actually 40 because XRayz and UnScr1pted didn't give any hearts since they're not actually apart of DA. 40 is enough hearts for P0lyR3zzzz though as their goal isn't to have a lot of hearts, its to make sure nobody else has a lot of hearts. CreepYT gives 7 hearts to Division, 12 hearts to aXc3L, and 5 hearts to Velocity with 16 remaining. CreepYT then asks where the 50 strength is, and when XRayz says they don't have enough, CreepYT asks for all they have. XRayz then gives CreepYT their 3 extra strength, which goes to CreepYT, Giggles & Division, putting all of the P0lyR3zzzz members and allys on 20 hearts and 5 strength.")
   print("Quotient joins the active members list. Everyone's gone until Monday, except P0ly because he keeps on staying behind. P0ly does absolutely nothing with this time.")
   print("Giggles gives Division the dragon egg.")
+  print("Lowk3y_, Silverr, Feinberg, & Ashswagg join the active members list.")
   
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
@@ -322,6 +323,10 @@ if (ifHeartCountS9 == 'yes'):
   print('ClockWise: 20 + 2 Hearts')
   print('Velocity: 20 Hearts')
   print('Quotient: 10 Hearts')
+  print('Lowk3y_: 10 Hearts')
+  print('Silverr: 10 Hearts')
+  print('Feinberg: 10 Hearts')
+  print('Ashswagg: 10 Hearts')
 
 ifStrengthCountS9 = input("Do you want to see everyone's strength count in S9?(yes/no): ")
 
@@ -350,6 +355,10 @@ if (ifStrengthCountS9 == 'yes'):
   print('ClockWise: 5 + 3 Strength')
   print('Velocity: 5 Strength')
   print('Quotient: 3 Strength')
+  print('Lowk3y_: 3 Strength')
+  print('Silverr: 3 Strength')
+  print('Feinberg: 3 Strength')
+  print('Ashswagg: 3 Strength')
 
 ifTeamsS9 = input("Do you want to see the teams on IMMRTLLS9?(yes/no): ")
 
@@ -366,3 +375,4 @@ if (ifTeamsS9 == 'yes'):
   print('UnScr1pted; Allies: XRayz-P0lyR3zzzz0lution, Enemies: DA')
   print('Bubblies: Bee-Vee, Allies: None, Enemies: ClockWise')
   print('Clocity: ClockWise-Velocity, Allies: P0lyR3zzzz0lution, Enemies: Bubblies')
+  print('LAFS: Lowk3y_-Silverr-Feinberg-Ashswagg, Allies: None, Enemies: None')
