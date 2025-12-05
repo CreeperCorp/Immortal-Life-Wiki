@@ -39,7 +39,7 @@ if (ifLore == 'yes'):
   print("Quotient joins the active members list. Everyone's gone until Monday, except P0ly because he keeps on staying behind. P0ly does absolutely nothing with this time.")
   print("Giggles gives Division the dragon egg.")
   print("Lowk3y_, Silverr, Feinberg, & Ashswagg join the active members list.")
-  
+  print("Season Nine's Final Fight")
 ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
 if (ifVideos == 'yes'):
@@ -125,6 +125,7 @@ if (ifVideos == 'yes'):
   print("Finxlly: We've Been Duped")
   print("Giggles: The Egg Is Mine")
   print("Division: No It's Mine")
+  print("CreepSplotion: Nine's Finale")
 
 ifLive = input('Do you want to see Season 9 live streams in chronological order?(yes/no): ')
 
