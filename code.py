@@ -104,25 +104,13 @@ if (ifStrengthCountS9 == 'yes'):
 
 ifTeamsS9 = input("Do you want to see the teams on IMMRTLLS9?(yes/no): ")
 
-if (ifTeamsS9 == 'yes'):
-  print('Bloodshots: CreepSplotion-Dash-XxFun, Allies: ReapSplotion-P0lyR3zzzz0lution, Enemies: CreepYT')
-  print('TOSC (The Orbital Strike Cannon): Giggles-Division-Quotient, Allies: PolyPePtide, Enemies: CreepYT & QEF')
-  print('CreepYT; Allies: PolyPePtide, Enemies: BloodShots-TOSC-QEF-XRayz (Fake)-DA')
-  print('QEF: Ennard (DEATH BANNED)-Finxlly-Quilver, Allies: ReapSplotion-Bac3e-DA, Enemies: TOSC-P0lyR3zzolution-XRayz-CreepSplotion')
-  print('P0lyR3zzzz0lution: P0ly-R3zz-R3zz0, Allies: TOSC-CreepYT-XRayz (Hidden), Enemies: Finxlly-Batchi-Quilver-Joc3e-DA-XRayz (Fake)')
-  print('ReapSplotion; Allies: QEF & CreepSplotion, Enemies: TOSC')
-  print('Bac3e: Batchi-Joc3e, Allies: QEF-DA, Enemies: P0lyR3zzzzolution')
-  print('DA: XRayz, Allies: P0lyR3zzzz0lution (Hidden)-QEF-TOSC-Bac3e, Enemies: P0lyR3zzzz0lution (Fake)')
-  print('aXc3L; Allies: P0lyR3zzzz0lution, Enemies: XRayz (Fake)-DA')
-  print('UnScr1pted; Allies: XRayz-P0lyR3zzzz0lution, Enemies: DA')
-  print('Bubblies: Bee-Vee, Allies: None, Enemies: ClockWise')
-  print('Clocity: ClockWise-Velocity, Allies: P0lyR3zzzz0lution, Enemies: Bubblies')
-  print('LAFS: Lowk3y_-Silverr-Feinberg-Ashswagg, Allies: None, Enemies: None')
+if (ifTeamsS10 == 'yes'):
+  print('No teams yet')
 
 
-ifLore = input('Do you want to see Season 9 lore?(yes/no): ')
+ifLore9 = input('Do you want to see Season 9 lore?(yes/no): ')
 
-if (ifLore == 'yes'):
+if (ifLore9 == 'yes'):
   print("On day 1, CreepYT got banned after joke betraying, and ECRACreepSplotion got the dragon egg. CreepYT got banned again on day 3. Division and Giggles made the Resin Mound, Ancient Debri Pond, and Temperature Graph Spawn. CreepYT actually left BloodShots and is going rogue. CreepYT created an Orbital Strike Cannon. Division and Ennard are actively looking for the Orbital built by CreepYT. Giggles found the Orbital. After StrengthSMP got added Dash was the first to get max strength (Even though he doesn't know how to use his ultimate). Giggles uses the orbital to kill and reach max strength.")
   print("PolyPeptide and Finxlly join the active members list. PolyPePtide tries to kill CreepSplotion because he hates the number 9 (he probably wanted to do this before but used this as an excuse), he fails but doesn't die so nothing was lost. Ennard helps Finxlly and gets him 5 kills, 2 of which were on active members (CreepYT & XxFun). PolyPePtide tries to hunt and kill Finxlly but is unsuccesful due to Ennard's defense. Quilver and Batchi join the active members list. Ennard helps Quilver get 4 kills on the server, all on active members (Giggles x2, Division, and PolyPePtide). After Batchi dies twice, PolyPePtide realizes he'd be at 20 hearts if he banned Batchi, and simply because of how perfect that is he becomes sworn enemies with Batchi without her even knowing. P0ly kills Batchi twice but she thinks its because of the natural mindset of the server. Batchi escapes dying more times.")
   print("P0ly started a stream and saw that Batchi and Finxlly were online, so he instantly starts searching for them. The rest of QEF was offline so when P0ly found Finxlly he was able to drop him. Finxlly stupidly enough had not set his spawn so P0ly was able to kill him 7 more times. This causes Quilver to log on (Ennard is busy and didn't realize Finxlly was in trouble), and Quilver helps Finxlly gear up again (His 2 extra strength and 4 hearts which puts Quilver back at 10). Quilver then searches for P0ly because he's better than him and would likely win a fight against him. But whilst Quilver is looking for P0ly, P0ly finds Batchi (Bro A Better Detective Than ManePear). P0ly then forces Batchi to set her spawn, in exchange for only killing her 3 times and not 6 (I would say that's stupid but P0ly kinda cracked at hunting so like). This is when Batchi figures out that P0ly just hates her. Eventually P0ly returns back to spawn, and sees Finxlly who was bait. Quilver then pulls up with a mace and pops P0ly, P0ly doesn't have a mace so he starts to dig down. P0ly's been trained by CreepSplotion for 1x1 pvp so he has the advantage. Quilver then pops 3 of his 5 totems and starts to run away, but P0ly chases him and pops him again. Quilver then pops his only egap and tries to quick drop P0ly, which works as P0ly pops his last totem. However P0ly knows from CreepSplotion that in 1x1 pvp its better to ignore your health, so he's able to pop Quilver again which forces him to run even though P0ly's 2 hearts with no sat. Somehow P0ly able to make a video about this in 5 seconds (exaggeration). CreepSplotion logs on and sees Quilver running from the fight, realizing that P0ly won because of his teaching. CreepSplotion then leaks that Finxlly is hiding behind a rock and P0ly goes to kill Finxlly. CreepYT logs on (off stream) and comes to spawn, in which Creep instantly jumps him. Since CreepYT and P0ly are allied P0ly helps CreepYT, and they are able to escape through the use of CreepYT's OBS. CreepYT then starts his stream.")
@@ -146,9 +134,9 @@ if (ifLore == 'yes'):
   print("Giggles gives Division the dragon egg.")
   print("Lowk3y_, Silverr, Feinberg, & Ashswagg join the active members list.")
   print("Season Nine's Final Fight")
-ifVideos = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
+ifVideos9 = input('Do you want to see Season 9 videos in chronological order?(yes/no): ')
 
-if (ifVideos == 'yes'):
+if (ifVideos9 == 'yes'):
   print('CreepSplotion: The First Day')
   print('ReapSplotion: A New Season')
   print('Ennard: WTF')
@@ -233,9 +221,9 @@ if (ifVideos == 'yes'):
   print("Division: No It's Mine")
   print("CreepSplotion: Nine's Finale")
 
-ifLive = input('Do you want to see Season 9 live streams in chronological order?(yes/no): ')
+ifLive9 = input('Do you want to see Season 9 live streams in chronological order?(yes/no): ')
 
-if (ifLive == 'yes'):
+if (ifLive9 == 'yes'):
   print('CreepSplotion: The First Day | 10 hours')
   print('ReapSplotion: The First Day | 6 hours')
   print('Ennard: The First Day | 9 hours')
