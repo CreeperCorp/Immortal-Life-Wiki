@@ -39,7 +39,7 @@ if seasonIs == '10':
     print('ReapSplotion: The First Day | 20 hours')
     print('Ennard: The First Day | 20 hours')
     print('Division: The First Day | 20 hours')
-    print('CreepYT: The First Day | 20 minutes')
+    print('CreepYT: The First Day | 20 hours')
   
   ifHeartCountS10 = input("Do you want to see everyone's heart count in S9?(yes/no): ")
   
