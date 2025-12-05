@@ -10,14 +10,14 @@ if (rulesS9 == 'yes'):
 
 dragonEggOwnersS9 = input("Do you want to see every owner of Season 9's Dragon Egg?(yes/no): ")
 
-if (dragonEggOwnerS9 == 'yes'):
+if (dragonEggOwnersS9 == 'yes'):
   print("CreepSplotion Start-10/14/25")
   print("Giggles 10/14/25-10/17/25")
   print("Division 10/17/25-NAN")
 
 dragonEggOwnersS10 = input("Do you want to see every owner of Season 10's Dragon Egg?(yes/no): ")
 
-if (dragonEggOwnerS10 == 'yes'):
+if (dragonEggOwnersS10 == 'yes'):
   print("End Fight Has Yet To Occur")
 
 seasonIs = input('What season do you want to see?(9/10): ')
