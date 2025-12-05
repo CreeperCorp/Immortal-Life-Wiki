@@ -20,6 +20,9 @@ dragonEggOwnersS10 = input("Do you want to see every owner of Season 10's Dragon
 if (dragonEggOwnerS10 == 'yes'):
   print("End Fight Has Yet To Occur")
 
+seasonIs? = input('What season do you want to see?(9/10): ')
+
+if seasonIs? == '10':
 ifLore10 = input('Do you want to see Season 10 lore?(yes/no): ')
 
 if (ifLore10 == 'yes'):
